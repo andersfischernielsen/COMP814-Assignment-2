@@ -1,0 +1,20 @@
+(in thousands, except for per share data)
+				 Three Months Ended  Six Months Ended
+				    Jul 31, Jul 31,   Jul 31, Jul 31,
+					1996     1995     1996     1995
+ Net sales		    $  34,906  28,398 $  64,466$ 52,074
+ Gross profit		    14,214  11,235    25,840  20,115
+ Income from operations	 3,847   2,803     5,455   3,657
+ ESOP compensation expense	 --     148	  --     295
+Income (loss) before
+   extraordinary gain	  1,406   (423)	 548  (2,655)
+Extraordinary gain on extinguishment
+  of debt, net of taxes	11,164	--    11,164	--
+ Net income (loss)	     12,570   (423)    11,712 (2,655)
+Primary earnings per share:
+Income (loss) before
+    extraordinary gain	    .16   (.09)	 .08   (.58)
+Extraordinary gain on extinguishment
+    of debt, net of taxes	1.25	--	1.53	--
+    Net income (loss)	    1.41   (.09)	1.61   (.58)
+    Avg shrs			8,938   4,555     7,287   4,555

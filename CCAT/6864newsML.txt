@@ -1,0 +1,5 @@
+Quarterly
+		   Latest		    Prior
+ Amount		 $0.075		  $0.075
+ Pay		    Oct 15
+ Record		Sept 30

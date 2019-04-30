@@ -1,0 +1,12 @@
+Sun Microsystems Inc.'s Java WorkShop -- software used to create software incorporating Sun's hot Java technology -- will be available online for $99 starting Friday, the company announced Tuesday.
+In a separate announcement, Sun and International Business Machines Corp. said they agreed to integrate IBM's Taligent technology into Java software to give it a more international accent. The enchacements would allow Java, written by programmers working in American English, to automatically recognise the language differences of individual countries.
+Java is a programming system that allows software designers to transform billboard-like Web pages into dynamic scenes that incorporate not only text, but moving graphics, video, and sound features.
+Scores of leading international computer, communications, and consumer electronics companies have licensed Java software for use in Internet-related products they are developing.
+Java WorkShop, Sun's first retail product, will be available at the discounted $99 price until Dec. 31, Larry Weber, Sun vice president and general manager for WorkShop products, said in a conference call.
+The low initial price -- the product's suggested price remains $295 -- reflects Sun's intention to broadly distribute the so-called software tools, Sun and industry executives said.
+"Their goal is to have a Java tool on every desktop," said one computer industry source familiar with their strategy.
+To promote this, Sun is working on a number of methods for distributing Java WorkShop, including electronic downloading and selling retail stores and other outlets.
+The software, which is designed to have the look and feel of a World Wide Web browser, will work on Microsoft Corp.'s Windows 95 and NT systems as well as Sun's Solaris system.
+A major focus of the product is to extend the use of the software tools beyond software developers to graphic artists, "Webmasters" and Web authors and people engaged in publishing content on the Internet.
+"This tool is much more integrated with the Internet than any other software tools for Java," said Weber, noting that it uses browser technology to make it easier for individuals who programme computers on a more casual basis.
+Sun has calculated that the broadest target for the product is a wide group of up to 25 million "content users," including people who manipulate data within spreadsheets.

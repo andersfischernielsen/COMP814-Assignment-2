@@ -1,0 +1,8 @@
+Swiss Bank Corporation has issued a total of 10 million American-style call warrants, on British Telecom plc, lead manager SBC Warburg said.
+One warrant controls one share.
+ STRIKE PRICE    4.00 STG		  PREMIUM	14.97 PCT
+ ISSUE PRICE     0.56 SFR		  GEARING	12.47 X
+ MATURITY DATE   10.NOV.97		 PAYDATE	03.SEP.96
+ LISTING	   =			   MIN EXER LOT 100
+SPOT REFERENCE  3.74 STG
+ --Reuter London Newsroom +44 171 542 7658

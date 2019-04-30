@@ -1,0 +1,3 @@
+Citrix Systems Inc said on Thursday it had become aware that in certain situations, administrators of Internet Web sites may install its servers in ways that might compromise a Web sites' data security.
+The company said availability of its Citrix ActiveX control software had temporarily been suspended at certain Internet Web sites pending investigation of the matter.
+It said it believes that proper installation and configuration of its products will prevent these security problems.

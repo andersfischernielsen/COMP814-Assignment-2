@@ -1,0 +1,6 @@
+Includes all companies that have reported EPS and have at least one quarterly estimate in I/B/E/S.  Reported EPS are compared to I/B/E/S mean to calculate a surprise factor.
+--------------------------------------------------------
+COMPANY			 MEAN ESTIMATE
+KMART CORP			$0.08
+H & R BLOCK		   -$0.20
+FLUOR CORP		     $0.82

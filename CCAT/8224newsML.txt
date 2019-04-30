@@ -1,0 +1,5 @@
+VERITAS Software Thursday said it formed a strategic licensing, development and marketing relationship with Microsoft Corp for the delivery of its volume manager disk and storage management software in Microsoft's fast-growing operating system.
+In a statement, VERITAS will create enhanced disk and volume management capabilities to be embedded in future versions of Windows NT Server, making VERITAS the first external provider of enterprise storage technologies for the platform.  
+VERITAS also said it will independently deliver additional capabilities in versions of its products for Windows NT Server 4.0 and other versions of the operating system in the future. VERITAS Volume Manager, a product that allows large groups of disks in client/server environments to be optimized for storage, capacity and performance is currently installed in tens of thousands of customer sites through its 50 OEM partners and network of resellers on the UNIX platform.
+Pricing was not announced.
+Veritas shares were up 3-3/4 to 44 in morning trade.

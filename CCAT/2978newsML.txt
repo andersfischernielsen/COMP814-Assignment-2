@@ -1,0 +1,16 @@
+Sun Microsystems Inc said the company's Java WorkShop suite of software development tools will be available electronically from August 23 for an initial introductory price of $99.
+Larry Weber, vice president and general manager for WorkShop products at Sun Microsystems, said in a conference call that Java Workshop, a set of development tools for the company's hot new Java technology, will be available at the discounted price until December 31.  
+The low initial price -- the suite's suggested pricing remains at $295 -- reflects Sun's intention to distribute the software tools broadly, Sun and industry executives said.
+"Their goal is to have a Java tool on every desktop," said one computer industry source familiar with their strategy.
+To promote this, Sun is working on a number of methods for distributing the tools, including electronic downloading and delivering it through resellers, including retail stores.
+Java WorkShop, which is designed with the look and feel of a World Wide Web browser, is designed to work on Microsoft Corp's Windows 95 and NT systems as well as Solaris.  
+A major focus of the product is to extend the use of the development tools beyond the usual software developer community to include graphic artists, Web masters and authors and people engaged in publishing content on the Internet.
+"This tool is much more integrated with the Internet than any other software tools for Java," said Weber, noting that it uses browser technology to make it easier for individuals who program computers on a more casual basis.
+Sun has calculated that the broadest target for its tools product is a wide group of up to 25 million "content users," including people who manipulate data within spreadsheets.  
+"These people don't think of themselves as programmers,... but they do transformations of the data much the way a programmer would do it," Weber said. "For the bottom tier, the content developer, we have included the ability to directly edit HTML pages and to marry those pages with Java applets."
+HTML pages use the World Wide Web's Hypertext Markup Language which enables subjects to be cross-referenced in graphics-rich displays across the Internet.
+Java applets are small applications which can be delivered over the Internet and used for various tasks, such as editing, in the Java language, which runs on nearly any computer.  
+The Java Workshop is Sun's first retail product, although the company said it would require purchasers to contact an authorized reseller so as not to compete with its partners.
+The tools enable developers and others to create Java applications graphically, shielding users having to use command line coding and thus speeding and simplifying the task of programming, according to Sun Microsystems.
+The company said the Java Workshop is currently in use in a number of locations developing sophisticated Java applets and applications for use on both the Internet and on internal corporate networks known as intranets.
+-- sam.perry@reuters.com, Palo Alto Bureau, +1 415 846 5400

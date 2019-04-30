@@ -1,0 +1,31 @@
+AMERICAN SOFTWARE INC
+	   (In Thousands, Except Earnings (Loss) Per Share)
+							    For the First
+								Qtr. Ended
+								 July 31,
+							    1996	 1995
+Revenues:
+ License fees					 $ 5,474   $ 7,450
+ Services						 7,444     7,609
+ Maintenance					    5,208     5,899
+ Total revenues					18,126    20,958
+Costs:
+ License fees					   2,279     3,481
+ Services						 6,629     5,910
+ Maintenance					    1,815     1,979
+ Total cost of revenues			    10,723    11,370
+ Research & development			     3,587     3,546
+ Less: Capitalized software		     (3,067)   (2,655)
+ Mkt & sales					    5,157     5,222
+ G&A							3,049     3,450
+ Total costs					   19,449    20,933
+ Operating earnings (loss)			(1,323)	  25
+ Other income					     120	 589
+Earnings (loss) before
+  income taxes					(1,203)	 614
+ Income tax expense				     ---	 246
+ Net earnings (loss)				(1,203)	 368
+ Earnings (loss) per share			  (.05)	 .02
+Weighted average shares
+  outstanding					  22,298    23,391
+-- New York Newsdesk 212 859-1610

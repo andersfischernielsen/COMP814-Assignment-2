@@ -1,0 +1,21 @@
+Earnings surprise for August 22, provided by Zacks investment research. The following companies reported the greatest deviations, above or below analysts' mean estimates, as compiled by Zacks
+COMPANY		   ESTIMATE  ACTUAL  PCT SURPRISE
+AIRPORT SYSTEMS	  0.01     0.06	500.00%
+LANVISION		 -0.06    -0.02	 66.67%
+EAGLE HARDWARE	   0.26     0.35	 34.62%
+MARKS BROS		 0.13     0.16	 23.08%
+SBS TECHNOLOGY	   0.24     0.77	 22.22%
+RENAISSANCE HTL	  0.26     0.29	 20.83%
+SHARPER IMAGE	   -0.16    -0.13	 19.23%
+SHOE CARNIVAL	    0.06     0.07	 18.75%
+WCI STEEL		  0.20     0.22	 16.67%
+MICOR COMP		 0.03    -0.07     -333.33%
+HANDLEMAN CO	    -0.12    -0.24     -100.00%
+FARAH			0.20     0.01	-95.00%
+INTERIAN		  -0.36     0.57	-58.33%
+BOMBAY CO		 -0.04    -0.06	-50.00%
+CATHERINES		 0.28     0.22	-21.43%
+SPORTMART		  0.41     0.35	-14.63%
+BAKER			0.12     0.11	 -8.33%
+CFM TECH		   0.14     0.13	 -7.14%
+SUNGLASS		   0.33     0.36	 -5.25%

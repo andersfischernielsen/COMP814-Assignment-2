@@ -1,0 +1,10 @@
+BORROWER - Daidoh Ltd
+LEAD MGR - Yamaichi Securities Co Ltd
+TRUSTEE - Dai-Ichi Kangyo Bank Ltd
+ TYPE convertible     ISSUE NO   4	  AMT    7 bln yen
+ COUPON 0.9%	    ISSU PRICE	    MATURITY 30.Sep.05
+CONV PRICE 924 yen
+ CONV FROM 1.Oct.96   CONV TO 29.Sep.05
+ LAST MOODY	     PAY DATE 28.Aug.96  INT PAY end-Mar/Sep
+ LAST S&P		 SIGN DATE	     SUB DATE 21-27 Aug
+ LAST JCR		 LAST JBRI	     LAST NIS

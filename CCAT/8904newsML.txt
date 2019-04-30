@@ -1,0 +1,6 @@
+1996			1995
+ Shr loss		   $0.57     loss	 $0.03
+ Net loss		   9,216     loss	   168
+ Revs			 9,039		    3,459
+ Avg shrs		     N/A			N/A
+(All data above 000s)

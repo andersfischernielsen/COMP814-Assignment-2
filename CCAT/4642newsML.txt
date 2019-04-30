@@ -1,0 +1,10 @@
+BORROWER - Ube Industries Ltd
+LEAD MGR - Yamaichi Securities Co Ltd
+TRUSTEE - Sanwa Bank Ltd
+ TYPE convertible	    ISSUE NO   3    AMT   20 bln yen
+COUPON 1.25%(tentatively) ISS PRICE  PAR  MATURITY 30.Sep.05 CONV PRICE
+ CONV FROM 1.Oct.96   CONV TO 29.Sep.05
+ LAST MOODY	     PAY DATE 5.Sep.96   INT PAY end Mar/Sep
+ LAST S&P		 SIGN DATE	     SUB DATE 29.Aug-4.Sep
+ LAST JCR   BBB+	LAST JBRI	     LAST NIS   BBB+
+The coupon and conversion price will be decided on August 28.

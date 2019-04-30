@@ -1,0 +1,11 @@
+1996
+ Shr	   loss$ 0.01
+ Net	   loss  61
+ Revs		   3,216
+	  SIX MONTHS
+ Shr	 profit$ 0.09
+ Net	 profit 446
+ Revs		 6,580
+(All data above 000s except per share numbers)
+Note: Company's full name is International Nursing Services Inc. Periods ended June 30.
+-- New York newsroom, (212) 859-1610

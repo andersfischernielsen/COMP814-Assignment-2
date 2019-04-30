@@ -1,0 +1,6 @@
+The following remittance-backed certificate issue was announced by joint lead managers SBC Warburg Inc and SBC Warburg London.
+ BORROWER   BANCO INTERNACIONAL GRANTOR TRUST 1996-A (BITAL)
+ AMT    $100 MLN	SPREAD     275 BP    MATURITY    1999
+ TYPE	 FRN	 BASE	 3M LIBOR  PAY DATE    28.AUG.96
+ FULL FEES  UNDISC    ISS PRICE  PAR	 AVER LIFE   2.0 YRS
+-- London Newsroom +44 171 542 7658

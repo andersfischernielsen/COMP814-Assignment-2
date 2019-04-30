@@ -1,0 +1,10 @@
+Year to December 31, 1996
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		  7.10		 6.91
+ Current	     61    mln	  58    mln
+ Net		   18    mln	  32    mln
+ EPS		    1.79 yen	   3.23 yen
+ Ord div		 nil		  nil
+NOTE - Japan Resistor Mfg Co makes resistors, hybrid ICs, pentiometers and some electronic equipment.

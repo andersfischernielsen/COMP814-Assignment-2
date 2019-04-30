@@ -1,0 +1,7 @@
+The following rule 144A private placement debt issue was priced on Thursday, according to market sources. Donaldson, Lufin & Jenrette is lead manager on the deal.
+BORROWER: OMNIPOINT CORP
+AMT $150 MLN	    COUPON 11.625 PCT  MATURITY 08/15/2006
+TYPE SNR NOTES	  ISS PRICE 100	PAY DATE 8/27/96
+LAST MOODY B2	   REOFFER 100	  PAY FREQ SEMI-ANNUAL
+LAST S&P CCC+	   YIELD 11.625 PCT   CALLABLE NC 5
+NOTES EQUITY CALL FOR 1/3 AT 11.625

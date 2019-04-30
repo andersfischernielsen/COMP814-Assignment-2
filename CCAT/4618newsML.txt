@@ -1,0 +1,9 @@
+BORROWER - Teikoku Piston Ring Co Ltd
+LEAD MGR - Yamaichi Bank (Switzerland)
+ TYPE Euro yen convertible ISSUE NO	  AMT   4 bln yen
+ COUPON			  ISSU PRICE	MATURITY 05.Sep.00
+CONV PRICE 518 yen
+ CONV FROM 07.Oct.96	 CONV TO 29.Aug.00
+ LAST MOODY		    PAY DATE 05.Sep.96   INT PAY
+ LAST S&P			SIGN DATE 20.Aug.96  SUB DATE
+ LAST JCR			LAST JBRI		LAST NIS

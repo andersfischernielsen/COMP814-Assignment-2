@@ -1,0 +1,26 @@
+Polish state-owned airline Polskie Linie Lotnicze LOT SA increased its cargo trade by 22.7 percent in May 1996 from May 1995, according to data provided to Reuters.
+Data was supplied by the cargo handling agent at Okecie International Airport in Warsaw,  LOT Ground Services Sp z oo, which is owned 51 percent by LOT and 49 percent by the  Polish Airports State Enterprise (PPL).
+ CARGO TRADE (in tonnes)     MAY 1996    MAY 1995    PCT CHANGE
+--------------------------------------------------------------
+ TOTAL TRADE			1,385.7     1,129.5	   +22.7
+ --chartered flights		  4.1	   0.8	  +412.5
+ --scheduled flights	    1,297.0     1,064.9	   +21.8
+ --trucks				84.6	  63.8	   +32.6
+ TOTAL EXPORTS			488.8	 434.2	   +12.6
+ --chartered flights		  0.0	   0.8	  -100.0
+ --scheduled flights		405.2	 369.6	    +9.6
+ --trucks				83.6	  63.8	   +31.0
+ TOTAL IMPORTS			896.9	 695.3	   +29.0
+ --chartered flights		  4.1	   0.0		 -
+ --scheduled flights		891.8	 695.3	   +28.3
+ --trucks				 1.0	   0.0		 -
+ TRADE BALANCE		     -408.1	-261.1		 -
+ --chartered flights		 -4.1	  +0.8		 -
+ --scheduled flights	     -486.6	-325.7		 -
+ --trucks			     +82.6	 +63.8		 -
+--------------------------------------------------------------
+NOTE - In the trade balance, positive numbers indicate export surpluses; negative numbers indicate export deficits.
+Chartered flights include supplemental scheduled flights.
+LOT is owned completely by Poland's State Treasury.
+Its aircraft fleet includes eight Aerospatiale ATR-72s and 15 Boeings (six B737-400s, five B737-500s, two B767-200ERs and two B767-300ERs). LOT expects to receive two B737-400s and one B767-300ER in 1997 and two B737-800s in 1998.
+-- Ryan Tutak, Budapest newsroom (36 1) 266 2410

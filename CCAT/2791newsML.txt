@@ -1,0 +1,38 @@
+Data presented for the fiscal quarter ended:  6/30/96
+			    Unaudited
+			 North	Mid-     Mid-    Other    Total
+			  East  Atlantic    South  Networks
+FINANCIAL DATA
+(dollars in thousands):
+ Total Revenue  $1,270.6    $344.5   $239.3 $1,077.4 $2,931.8
+Total Capital Expenditures
+		     1,176.5   2,583.1  1,610.5  2,444.3  7,814.4
+ Total EBITDA	215.0   (752.4)  (231.4)    726.0    (42.8)
+Proportional Revenue(A)
+			 706.1     139.4     77.9    307.6  1,231.0
+Proportional Capital
+Expenditures(A)
+			 695.0     856.9    556.4    630.4  2,738.7
+Proportional EBITDA(A)
+			 (1.4)   (363.2)   (69.6)    199.7   (234.5)
+STATISTICAL DATA
+(additions for the quarter):
+ Route Miles	   311	  33	---	 93	437
+ Fiber Miles	14,942     1,589	---    4,452   20,983
+ Buildings Connected   5	  20	 25	 36	 86
+LEC-COs collocated(B)
+			   ---	  18	  7	---	 25
+Voice Grade Equivalent
+   Circuits	 47,114    14,571    1,052   30,835   93,572
+(as of June 30, 1996)  Route Miles	   937	 699	364	647    2,647
+ Fiber Miles	44,990    33,557   17,472   31,044  127,063
+Buildings connected
+			   265	 189	157	297	908
+LEC-COs collocated(B)
+			     8	  30	 15	 16	 69
+Voice Grade Equivalent
+   Circuits	 94,008    59,088   36,408   90,360  279,864
+(A) Represents portion of revenue attributable to the Company.
+(B) Local Exchange Carriers central office.
+Hyperion Telecommunications Inc is 89 percent-owned by Adelphia Communications Corp
+-- New York Newsdesk   212-859-1610

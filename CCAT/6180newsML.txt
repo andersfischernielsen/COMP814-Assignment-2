@@ -1,0 +1,25 @@
+Highest and lowest price earnings ratios for Australian companies included in the 320-company All Ordinaries Index based on closing prices on Wednesday. P/E based on rolling 12 months earnings.
+Highest 10
+Rank Name		     P/E    Close
+ 1   Union Gold Mine	214.29   1.50
+ 2   Gold Mines Aust	153.33   0.23
+ 3   Golden Shamrock	145.07   1.03
+ 4   Memtec		   127.49  36.50
+ 5   Orion Rsc		102.33   1.76
+ 6   National Food	   97.37   1.48
+ 7   Great Central	   89.59   3.70
+ 8   Pete Secu Aust	  75.48   5.45
+ 9   Otter Gold		72.18   1.92
+10   Harris Scarfe	   70.59   1.20
+Lowest 10
+ 1   Computer Power	   3.17   3.25
+ 2   OLS Asia Hldgs	   5.37   0.75
+ 3   Parbury Ltd		5.42   0.48
+ 4   Country Road	     5.95   1.46
+ 5   Walker Corp		5.99   0.49
+ 6   Pac Mutal Aust	   6.66   2.38
+ 7   David Jones		7.01   1.67
+ 8   Galore Grp		 7.13   0.32
+ 9   Capcount Prop	    7.59   0.83
+10   Central Equity	   7.68   0.96
+-- Sydney Newsroom 61-2 373-1800

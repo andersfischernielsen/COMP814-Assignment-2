@@ -1,0 +1,67 @@
+The following are lists of positive and negative earnings surprises compiled by First Call.  Earnings surprises and historical information are provided by First Call.
+		     First Call Earnings Surprises
+Positive Surprises
+ ----------------	First Call
+				     Consensus  Actual
+Company Name	Period     EPS	EPS    Surprise
+Wet Seal	     Q2Jul96    0.13     0.25     92.3%
+Hechinger Co	 Q2Jul96    0.20     0.28     40.0%
+Engineered Support Q3Jul96    0.23     0.28     21.7%
+Mac Frugal's Barg  Q2Jul96    0.10     0.12     20.0%
+Craig (Jenny) Inc  Q4Jun96    0.32     0.36     12.5%
+Spartech Corp	Q3Jul96    0.18     0.20     11.1%
+Centennial Techn   Q4Jun96    0.20     0.22     10.0%
+GC Companies	 Q3Jul96    0.98     1.07	9.2%
+LSI Industries     Q4Jun96    0.24     0.26	8.3%
+Smithfield Foods   Q1Jul96   -0.12     0.02	 N+
+Unify Corp	   Q1Jul96   -0.02     0.03	 N+
+Petsmart  Inc	Q2Jul96    0.09     0.10	N/A
+		 Negative Surprises
+------------------     First Call
+				   Consensus  Actual
+Company Name	Period     EPS	EPS    Surprise
+Fay's Inc	    Q2Jul96    0.10     0.07    -30.0%
+TSX Corporation    Q1Jul96    0.24     0.22     -8.3%
+Analog Devices     Q3Jul96    0.37     0.35     -5.4%
+Central Tractor    Q3Jul96    0.38     0.36     -5.3%
+Compuserve Corp    Q1Jul96   -0.15    -0.19	 N-
+H & R Block	  Q1Jul96   -0.21    -0.27	 N-
+Texfi Industries   Q3Jul96   -0.04    -0.14	 N-
+		   Other Companies Reporting Today
+Positive Reports
+--------------			  First Call
+				   Consensus  Actual
+Company Name	 Period     EPS	EPS     Diff.
+Nordson Corp	 Q3Jul96    0.62     0.65	4.8%
+Ross Stores Inc    Q2Jul96		  .72	4.3%
+Zygo Corp	    Q4Jun96    0.46     0.48	4.3%
+ChildTime Learning Q1Jun96    0.25     0.26	4.0%
+Longs Drug Stores  Q2Jul96    0.67     0.69	3.0%
+Duty Free Intl     Q2Jul96    0.22     0.22	0.0%
+Methode Electron   Q1Jul96    0.23     0.23	0.0%
+MacNeal-Schwendler Q2Jul96    0.14     0.14	0.0%
+Parlex Corp	  Q4Jun96    0.18     0.18	0.0%
+Standex Intl	 Q4Jun96    0.49     0.49	0.0%
+Genesco Inc	  Q2Jul96    0.04     0.08	N/A
+CMC Industries     Q4Jul96    0.05     0.07	N/A
+Gerber Scientific  Q1Jul96    0.05     0.07	N/A
+Goody's Family Clo Q2Jul96    0.07     0.08	N/A
+Kmart Corp	   Q2Jul96    0.07     0.07	N/A
+Pet Food Warehouse Q2Jul96    0.03     0.03	N/A
+Pacific Gateway Ex Q2Jun96    0.05     0.05	N/A
+		 Negative Reports
+----------------			   First Call
+				  Consensus  Actual
+Company Name	Period     EPS	EPS     Diff.
+Roper Industries   Q3Jul96    0.46     0.45	N/A
+Fluor Corp	   Q3Jul96    0.82     0.81	N/A
+PCA International  Q2Jul96    0.04     0.03	N/A
+Legend:
+N/A	All or some data necessary for calculation is
+	   unavailable.
+N/C	Not Calculable, e.g. divisor (Mean estimate) = 0, and
+	   there is more than one estimate.
+N+	 Actual EPS is larger than Mean estimate. Mean
+	   estimate is negative or zero.
+N-	 Actual EPS is smaller than Mean estimate. Mean
+	   estimate is negative or zero.

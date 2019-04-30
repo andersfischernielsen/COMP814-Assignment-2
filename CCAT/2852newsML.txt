@@ -1,0 +1,11 @@
+1996			1995
+ Shr			  $0.36		    $0.22
+ Net			  7,824		    5,593
+ Revs		     104,641		   98,232
+ Avg shrs		  20,856		   25,196
+	  12 MONTHS
+ Shr			  $0.95		    $0.46
+ Net			 22,912		   11,772
+ Revs		     401,018		  378,093
+ Avg shrs		  20,856		   25,196
+(All data above 000s except per share numbers)

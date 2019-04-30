@@ -1,0 +1,25 @@
+Three months ended	Year ended
+			   Jun 29,    Jun 24,    Jun 29,    Jun 24,
+			     1996	 1995	 1996	 1995
+ Net sales		$4,188     $5,751    $22,318    $23,635
+ Cost of sales	   1,787	2,558	9,319     12,896
+ Gross profit	    2,401	3,193     12,999     10,739
+ S/G/A expenses	  2,061	1,720	7,933     11,267
+Research, Development cost
+			     1,054	  531	4,260	3,727
+ Unusual/Non-recurring    --	   --    (1,524)    (6,178)
+ Oper (Loss) Income    (714)	  942	2,330	1,923
+Interest expense
+  (income), net	  (102)	  (2)	(246)	  272
+ Income tax provision   (68)	 (24)	    8	   85
+Net (Loss) Income
+  (continuing ops)     (544)	  968	2,568	1,566
+Discontinued operations
+  loss/(income)	  (178)	3,611	(652)	3,897
+ Extraordinary income     --	   --	   --	1,005
+ Net income (loss)    ( 366)   ( 2,643)	3,220   ( 1,326)
+ Net (loss) per share ( 0.05)    ( 0.51)	 0.44    ( 0.25)
+ Average shares    7,646,000  5,238,000  7,246,000  5,240,000
+	    (In thousands, except share and per share data)
+NOTE: Micro Component Technology Inc is full company name.
+	    Chicago newsdesk 312 408 8787

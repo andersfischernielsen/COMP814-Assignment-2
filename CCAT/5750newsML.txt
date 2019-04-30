@@ -1,0 +1,27 @@
+MicroTel International, Inc.
+Consolidated Condensed Statements of Operations
+(in thousands except per share amounts)
+(Unaudited)
+				     For the three	For the six
+					months ended	months ended
+					 June 30,	     June 30,
+					1996     1995     1996     1995
+ Sales			    $3,960   $4,456   $8,094  $10,116
+Cost and expenses:
+ Cost of sales		   2,410    2,818    4,937    6,137
+Engineering and product
+  development			244	284	787	719
+ Selling and marketing	 1,003	897    2,041    1,999
+ Administration		    504	421    1,297    1,093
+ Other expense/(income)-net  (104)     (34)    (156)	 10
+				     4,057    4,386    8,906    9,958
+Income (loss) before
+  income taxes		    (97)	 70    (812)	158
+ Income tax expense		 --	 --	 --	 --
+ Net income (loss)		(97)	 70    (812)	158
+Net income (loss) per
+  common share		  (0.01)     0.01    (.06)     0.01
+Weighted average number of
+shares used in calculating
+net income (loss)
+  per share		     13,911   13,044   13,864   13,042

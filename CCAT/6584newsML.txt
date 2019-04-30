@@ -1,0 +1,36 @@
+Credit Analysis & Research Ltd (CARE) has announced ratings for four fixed deposit, one non-convertible debenture and two bonds.
+ Company		 Instrument  Rating    Issue size(Rupees)/
+								 Comments
+* IDBI		     Bonds     CARE AAA     (30 billion)
+			   Omni Bonds  CARE AAA     (50 billion)
+							    (size enhanced
+							     from Rs 38.17
+							     billion)
+* Welzmann Homes Ltd.   FD	 CARE BBB(FD) (50 million)
+* Surya Fincap Ltd.     FD	 CARE BBB+(FD)(100 million)
+							    (upgraded from
+							    CARE BBB(FD) for
+							    Rs. 70 million)
+* Reliance Capital Ltd. FD	 CARE AAA(FD) (1 billion)
+							    (Enchanced from
+							     Rs 600 million)
+				NCD	CARE AAA     (2 billion)
+* Vijaya Commercial   Credit Ltd.	     FD	 CARE BB(FD)  (550 million)
+							    (Enchanced from
+							     400 million)
+    FRB    -  Floating rate bonds
+    CP     -  Commercial paper
+    CD     -  Certificate of Deposit
+    PCD    -  Partly convertible debenture
+    FD     -  Fixed Deposit
+    OCD    -  Optionally convertible debenture
+    NCD    -  Non-convertible debenture
+    PCN    -  Partly convertible notes.
+    ICD    -  Inter Corporate Deposit
+    CCPS   -  Cumulative convertible preference shares
+    OFCD   -  Optionally fully convertible debentures.
+    DDB    -  Deep Discount Bond
+    CAR    -  Credit Analysis Rating
+    SO     -  Structural Obligation
+Note : PR1 is a symbol for superior, PR2 for strong, PR3 adequate, PR4 risk prone and PR5 default. The plus or minus sign after the rating indicates the relative position within the band covered by the symbol.
+CARE AA(FD) indicates high quality, CARE A(FD) indicates adequate safety, CARE BBB(FD) indicates moderate safety, CARE AAA(FD) indicates best quality, CARE BB(FD) indicates inadequate safety, CARE B(FD) indicates risk prone, CARE C(FD) indicates high risk, and CARE D(FD) indicates default.

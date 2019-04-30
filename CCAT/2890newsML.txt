@@ -1,0 +1,27 @@
+UNIFY CORPORATION
+		    CONSOLIDATED STATEMENTS OF OPERATIONS
+		    (in thousands, except per share data)
+				   (unaudited)
+					    Three Months Ended July 31,
+							  1996	   1995
+Revenues:
+  Software licenses-Graphical		 $2,194	   $540
+  Software licenses-Character		  4,335	  3,078
+  Services					   2,511	  2,494
+ Total revenues				    9,040	  6,112
+Cost of revenues:
+  Software licenses				  356	    549
+  Services					   1,128	  1,069
+ Total cost of revenues			  1,484	  1,618
+ Gross margin					7,556	  4,494
+Operating expenses:
+  Product development			    1,691	  1,401
+  Selling, general and administrative	5,667	  4,211
+ Total operating expenses			7,358	  5,612
+ Income (loss) from operations		   198	(1,118)
+ Other income, net				    47	    204
+ Income (loss) before income taxes	     245	  (914)
+ Provision for income taxes		     (58)	   (65)
+ Net income (loss)				   187	 ( 979)
+ Net income (loss) per share		    0.03	( 0.17)
+ Shares used in per share computations     7,450	  5,681

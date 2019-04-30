@@ -1,0 +1,15 @@
+Novell Inc, saying its future growth and survival is at stake, launched an aggressive push into the Intranet market by introducing IntranetWare, a network platform adapted from Novell's NetWare network operating system to fully open standards for operating corporate Intranets.
+The Orem, Utah software company has been the leading vendor of network operating system platform. But its NetWare has a history as a proprietary system, although Novell has made revisions to gradually open it to standards compliant.  
+Consequently, Novell has been perceived in the market as out-of-the-loop as the tide of corporate interest in developing Internet-like Intranets has swept through the business world this year.
+"Fundamentally our future is at stake here," said Novell executive vice president Steven Markman when asked the importance of IntranetWare's launch to Novell's strategy. "If we are looking for growth, the only way we are going to get it is with open standards, Internet-Intranet based network services tied to network services," he said. "This is survival, it is fundamental."  
+With IntranetWare, which will be generally available in October, Novell will be shipping a whole series of Intranet applications and network management tools, including a NetWare Web server, a fast server which integrates Novell's existing Directory Services product, GroupWise 5.0 a messaging and collaboration application, and ManageWise 2.1 an Intranet network management solution.
+Executives demonstrating the products at a press conference here said they hope to convince the market that IntranetWare and its associated products combine the reliability, robustness and security features of the old NetWare platform with the open easy-to-access features of an Intranet.  
+NetWare has about 55 million users and has been a market leader among corporate networking platforms.
+But analysts have said Novell stood to lose that distinction if it did not move into the Intranet direction.
+International Data Corp analyst Mark Levitt said Novell would face too much of a risk if it did not answer the market demand for Intranet products.
+Indeed, Markman said many customers have asked Novell to make its network products Intranet based.
+The question remains, however, whether or not Novell launched its Intranet strategy and products soon enough.  
+Some analysts said Novell customers have had to wait a year for direction from Novell about how to migrate from NetWare to an Intranet network and relied on others meanwhile.
+"The market is ripe for Intranet solutions and I think they've hit the needs right on. People are going to be more accepting of an Intranet solution from a company with a large installed base like Novell," said Ron Rappaport, research associate at Zona Research.
+"The question is are they late."
+Markman maintained that Novell is not late, saying that customers are just now figuring out what Intranets are.

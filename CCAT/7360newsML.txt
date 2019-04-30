@@ -1,0 +1,8 @@
+Year to March 31, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    PREVIOUS	   ACTUAL
+ (Parent)	     FORECAST	   FORECAST	  YEAR-AGO
+ Sales		 22.50		21.00		20.80
+ Current		1.00	     800    mln	 612    mln
+ Net		  800    mln	 650    mln	 604    mln
+NOTE - Forval Corp sells telephones.

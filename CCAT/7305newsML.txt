@@ -1,0 +1,10 @@
+BORROWER - Fuji Corp Ltd
+LEAD MGR - Daiwa Securities Bank (Switzerland)
+ TYPE convertible     ISSUE NO		AMT   20 million SFR
+ COUPON		   ISS PRICE PAR	 MATURITY 30.Sep.00
+ CONV PRICE	     CURR RATE
+ CONV FROM 1.Oct.96   CONV TO 22.Sep.00
+ LAST MOODY	     PAY DATE 12.Sep.96  INT PAY end Mar/Sep
+ LAST S&P		 SIGN DATE 27.Aug.96 SUB DATE
+ LAST JCR		 LAST JBRI	     LAST NIS
+The coupon, conversion price and currency rate will be decided on August 27.

@@ -1,0 +1,6 @@
+1996			1995
+ Shr		 $0.10		    $0.34
+ Net		 955			3,285
+ Revs		63,517		   64,207
+ Avg shrs	  N/A			N/A
+(All data above Canadian 000s except per share numbers)

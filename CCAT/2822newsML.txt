@@ -1,0 +1,4 @@
+Spyglass Inc said Tuesday it launched a new version of its Web Server Software Development Kit, which it said is the first to be fully compatible with both Microsoft Corp and UNIX platforms.
+The software also provides improved features such as file caching and secure communications, Spyglass said.
+Pricing for the software starts at $25,000, which includes 100 licenses and a one-year support and maintenance contract.
+--Chicago newsdesk, 312-408-8787

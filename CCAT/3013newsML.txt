@@ -1,0 +1,42 @@
+Three Months Ended	Twelve Months Ended
+			 June 29,    July 1,   June 29,     July 1,
+			   1996	  1995	 1996	  1995
+Product sales, net
+	     $12,894,803  $5,905,394 $36,175,388 17,157,756
+Research contract
+ revenue	 319,304	410,497	894,517    2,138,332
+Other revenue  741,619	192,599    2,065,691	708,765
+Total revenue 13,955,726   6,508,490   39,135,596   20,004,853
+Cost of sales and revenue: Product sales and other
+  revenues     8,239,272   4,090,476   23,414,139   10,868,160
+Research contracts:
+		    149,073	 86,741	439,659	945,072
+Total cost of sales
+and revenue   8,388,345    4,177,217   23,853,798   11,813,232
+Gross profit  5,567,381    2,331,273   15,281,798    8,191,621
+Operating expenses:
+Selling expenses:
+		  1,132,923	610,062    3,297,664    1,991,459
+General and  administrative
+ expenses     1,229,226	824,494    3,807,327    2,561,221
+Research and development
+expenses	1,592,840	721,119    4,553,361    2,839,986
+Acquisition related
+ expenses	 (65,353)	   ---    2,887,647	    ---
+Write-off of goodwill:
+		 6,813,562	    ---    6,813,562	    ---
+Total operating
+ expenses   10,703,198    2,155,675   21,359,561    7,392,666
+Earnings (loss) from
+ operations  (5,135,817)     175,598   (6,077,763)     798,955
+Other expense (income):
+Interest expense 159,282	   -0-	323,510	    960
+Interest income (112,653) (213,890)     (659,066)    (744,751)
+Other expense	1,731	4,687	  13,568	 13,998
+Total other
+ expense (income) 48,360   (209,203)    (321,988)    (729,793)
+Earnings (loss) before
+income taxes  (5,184,177)    384,801   (5,755,775)   1,528,748
+Income tax expense 742,000	-0-     1,541,000	401,000
+Net earnings (net loss):
+		   $5,926,177  $384,801   $(7,296,775)   1,127,748

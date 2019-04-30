@@ -1,0 +1,6 @@
+Seagate Technology's Seagate Software said on Thursday it launched Seagate ExecView, touting it as the first solution that provides integrated, cross-platform storage management for enterprise networks running Microsoft Windows NT and Novell NetWare operating systems.
+Loaded on either a Windows NT server or a Windows 95 client, ExecView provides administrators with information on all Seagate Backup Exec for Windows NT and Seagate Backup Exec for NetWare operations from a single administrator console, the company said.
+ExecView initially will be released in English and is expected to be available in August at an suggested retail price of $1,395 for 5 servers, $3,595 for 20 servers and $5,595 for 50 servers, the company said.
+With ExecView, administrators can monitor all scheduled, active and completed backup operations to ensure compliance with company data protection standards and identify backup operations that need attention, the company said.
+French, German and Spanish versions are expected to be available in September, the company said.
+- New York Newsdesk 212-859-1610.

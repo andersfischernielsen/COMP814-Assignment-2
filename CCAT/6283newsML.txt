@@ -1,0 +1,9 @@
+BORROWER - Shimpo Industrial Co Ltd
+LEAD MGR - Fuji Bank Schweiz AG
+ TYPE Euroyen convertible  ISSUE NO	  AMT   4.5 bln yen
+ COUPON nil		    ISSU PRICE	MATURITY 06.Sep.00
+CONV PRICE 1,804 yen
+ CONV FROM 20.Sep.96	 CONV TO 30.Aug.00
+ LAST MOODY		    PAY DATE 06.Sep.96   INT PAY
+ LAST S&P			SIGN DATE 21.Aug.96  SUB DATE
+ LAST JCR			LAST JBRI		LAST NIS

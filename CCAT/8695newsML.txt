@@ -1,0 +1,4 @@
+Microsoft Corp said Thursday it has fixed two problems users had with the company's Internet Explorer 3.0 software.
+The company has posted an updated version of the software setup routine that needs less temporary hard disk space for installation. The new downloads include the new setup automatically. Users who have already downloaded the Internet Explorer are not affected by this issue.
+The company will post a patch file at http://www.microsoft.com/ie/ at 2200 PDT Thursday (0500 GMT) to correct an issue with some Web sites that require users to enter a user name and password.
+All Internet Explorer 3.0 users are encouraged to install the patch, which can be done automatically by visiting a page on the Microsoft Internet Explorer Web site and downloading one automatic-update file, Microsoft said.

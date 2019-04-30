@@ -1,0 +1,20 @@
+Netscape Communications Corp's lead antitrust lawyer has written to the U.S. Department of Justice to urge that immediate action be taken against Microsoft Corp for what Netscape called "far-reaching anti-competitive behavior."
+The letter, dated August 12 and made available to Reuters Tuesday, is a further escalation of a battle of words between the two companies that began earlier this month as the rivals prepared to issue new versions of Internet browser software.
+Gary Reback, an outside attorney representing Netscape, also suggested in the letter that the issue be turned back to the Federal Trade Commission for further investigation.  
+The eight-page letter accuses Microsoft of having made written offers to computer makers, Internet service providers (ISPs), systems integrators and large corporations providing for "either clandestine side payments, discounts on the Microsoft desktop operating system (Windows) or payments in the form of 'real estate' on the Windows 95 screen."
+The Netscape counsel said these inducements were made on the condition that the parties involved would "make competitors' browsers far less accessible to users than Microsoft's own browser."
+A browser enables PC users to access the World Wide Web.  
+The legal clash comes at a critical point as both Netscape and Microsoft are introducing new versions of their respective browsers, Netscape Navigator and Microsoft Internet Explorer.
+Netscape, which pioneered browser technology and surged on to the public stock market with a stellar initial public offering in August 1995, holds the lead with an estimated 80 percent or more of the worldwide browser market.
+But Microsoft, whose Windows systems dominate the personal computer market with about a 90 percent share, has moved quickly to gain an estimated 10 percent browser share.  
+It said Monday that more than one million users have downloaded its latest Internet Explorer version in its first week of availability.  
+The software, known as Internet Explorer 3.0, was formally introduced just a week ago. On Monday, Netscape launched the latest version of its own Navigator software.
+Both companies have linked up with content providers to offer free trial subscriptions as a way of promoting their browsers. Analysts have said that Microsoft, which has thrown its marketing and financial clout into Internet products, has leveled the playing field with its latest software.
+Netscape and Microsoft are already well along the way to developing the next version of their browser software.  
+Reback, a Silicon Valley lawyer known for spearheading past legal tussles with the Redmond, Wash.-based software company, said the alleged practices went far beyond those that had been addressed in a consent decree agreed by Microsoft and the Justice Department two years ago.
+"Microsoft's behavior is, if anything, more anti-competitive and pernicious than the conduct addressed specifically in the decree," Reback wrote in the letter.
+Reback said in an interview a number of companies had "started coming out of the trees" with compliants since a war of words began between Netscape and Microsoft two weeks ago.  
+Reback urged the Department of Justice to investigate what Netscape believes was illegal conduct by Microsoft, saying the department could do so swiftly. He said many small Internet companies "now face the threat of elimination from the market by reason of Microsoft's illegal conduct."
+The attorney also suggested the department's antitrust division return the matter to the Federal Trade Commission, which he said has taken a recent interest in the subject.
+"In any event, we are requesting immediate attention," he said. "Time is of the essence. We know that the antitrust division has an open file with respect to Microsoft."
+-- sam.perry@reuters.com, Palo Alto Bureau, +1 415 846 5400

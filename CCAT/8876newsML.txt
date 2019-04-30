@@ -1,0 +1,12 @@
+Seacoast Banking Corp of Florida declared a quarterly dividend on its class A stock.
+		    Quarterly
+		   Latest		    Prior
+ Amount		  $0.15		   $0.15
+ Pay		   Sept 30
+ Record		Sept 20
+The company also declared a quarterly dividend on its class B stock.
+		    Quarterly
+		   Latest		    Prior
+ Amount		 $0.135		  $0.135
+ Pay		   Sept 30
+ Record		Sept 20

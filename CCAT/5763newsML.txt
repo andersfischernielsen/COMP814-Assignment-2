@@ -1,0 +1,25 @@
+Below are the current average ex-UK GBP air cargo market rates per kg for a 100 kg shipment, with a volume-to-weight ratio of six-to-one:
+						  Aug 21    vs	Aug 7
+		   UNITED STATES
+LON-JFK					  O.62		 0.63
+LON-LAX					  0.70		 0.71
+LON-CHI					  0.69		 0.69
+		   ASIA-PACIFIC
+LON-HKG					  1.20		 1.19
+LON-SIN					  1.23		 1.23
+LON-NRT					  1.92		 1.91
+LON-SEL					  1.80		 1.78
+LON-SYD					  2.05		 2.05
+		   MIDDLE EAST
+LON-DXB					  O.70		 0.70
+LON-BAH					  O.85		 0.86
+			  AFRICA
+LON-JNB					  1.71		 1.70
+		   SCANDINAVIA
+LON-STO					  0.7O		 0.70
+LON-CPH					  0.65		 0.65
+		   LATIN AMERICA
+LON-SAO					  2.04		 2.02
+*The rates quoted in this report were obtained by Reuters journalists on confidential basis from a range of airlines, large forwarders and smaller air cargo agents based at the three main London airports.
+*All prices quoted in sterling.
+*The tariffs represent average rates calculated from a range of prices and are indicative or current market activity.

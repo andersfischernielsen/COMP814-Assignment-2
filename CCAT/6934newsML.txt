@@ -1,0 +1,9 @@
+(At)Home Corp, a developer of high-speed interactive Internet services via the cable TV infrastructure, said it had signed partnership deals with more than 60 TV, print media and Web content providers.  
+(At) Home, with the backing of several top U.S. cable companies and Silicon Valley venture fund Kleiner, Perkins, Caufield & Byers, plans to introduce a proprietary Internet delivery network running over existing cable infrastructure.
+The company said it had signed up suppliers of news, sports and entertainment programming, including CNET Inc , CUC International, Wired Ventures Inc, Knight-Ridder Inc, New York Times Co, SportsLine USA Inc, Gannett Co Inc Dow Jones & Co Inc and Softbank Corp's Ziff-Davis.  
+"We feel these news services are the harbingers of a new wave of breakthrough offerings on the Internet," said Charles Moldow, (At)Home's vice president of media developer.
+The (At)Home network would connect personal computer users to the Internet using high-speed cable modems running over this network, unlocking the possibilities of a high-speed, graphics-intensive programming delivered via the Internet.
+Current modems running at slower speeds are capable of transmitting text and simple graphics, but this method is ill-suited for more data intensive voice, video and graphics.
+To date, however, the closely watched Internet technology pioneer has experienced substantial engineering difficulties in attempting to overlay its Internet network on the existing cable infrastructure, resulting in service roll-out delays.
+The company now says it plans to introduce its service in selected markets later this year through its three cable service operator partners, Tele-Communications Inc, Comcast Corp and Cox Communications Inc.
+-- Eric Auchard, New York Newsdesk, 212-859-1736

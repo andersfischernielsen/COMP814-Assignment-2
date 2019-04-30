@@ -1,0 +1,32 @@
+CONSILIUM, INC
+		     CONSOLIDATED STATEMENTS OF OPERATIONS
+		(in thousands, except per share data; unaudited)
+				Three months ended  Nine months ended
+					     July 31,	 July 31,
+					 1996    1995	1996    1995
+Revenues:
+   Product			  5,773   4,598    13,965  12,047
+   Services			 4,429   3,924    12,312  11,747
+   Development			513     330     1,376     788
+     Total revenues	    10,715   8,852    27,653  24,582
+Costs and expenses:
+   Product			  1,720     661     3,211   2,179
+   Services			 1,715   1,267     4,390   3,304
+   Research and development   3,527   3,048    10,241   7,960
+   Selling and marketing	3,228   3,150     9,245   8,549
+   General and administrative   902     538     2,851   2,131
+   Restructuring Charge	    --	--	  --	--
+Total operating expenses
+				     11,092   8,664    29,938  24,123
+Income (loss) from operations
+					(377)     188   (2,285)     459
+ Interest, net			 51     156	 277     440
+Income (loss) before
+   income taxes		   (326)     344   (2,008)     899
+ Provision for income taxes     207     129	 579     420
+ Net income (loss)		(533)     215   (2,587)     479
+Net income (loss) per share
+				     (0.07)    0.03    (0.33)    0.06
+Shares used in per share
+   Calculations:		  7,838   8,072     7,773   7,807
+SOURCE  Consilium Inc.

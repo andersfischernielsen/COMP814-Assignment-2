@@ -1,0 +1,10 @@
+1996			1995
+ Oper shr	  $0.03		    $0.03
+ Oper net	  154			160
+	  6  MONTHS
+ Oper shr	  $0.01		    $0.01
+ Oper loss	 30		profit 42
+(All data above 000s except per share numbers)
+NOTE: Q1 figures exclude net realized and unrealized losses totalling $98,092 or $0.02 per share in 1996 and $7,251,121 or $1.57 per share in 1995.
+Six month figures exclude net realized and unrealized gains totalling $2,593,604 or $0.56 per share in 1996 and $405,096 or $0.09 per share in 1995.
+-- New York Newsdesk 212 859-1610

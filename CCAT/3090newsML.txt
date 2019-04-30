@@ -1,0 +1,6 @@
+Citibank Espana has issued a total of 25,000 warrants, on 3-month MIBOR, lead manager Citibank NA said.
+ STRIKE PRICE    7.50 PCT		  PREMIUM	0.77 PCT
+ ISSUE PRICE     7714 ESP		  GEARING	=
+ MATURITY DATE   15.FEB.98		 PAYDATE	19.AUG.96
+ LISTING	   MADRID		    MIN EXER LOT =
+-- Reuter London Newsroom +44 171 542 7658

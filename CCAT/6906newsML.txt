@@ -1,0 +1,4 @@
+Oracle Corp said on Wednesday that its new Oracle Universal Server, Oracle8, entered beta testing last week.  
+Oracle said the software will be tested by customers on five different Unix platforms and Windows NT.
+The company said more than 300 users had been trained on the product, which will undergo intensive testing before becoming generally available.
+--New York Newsdesk, 212/859-1610

@@ -1,0 +1,20 @@
+New Zealand ADRs ended mixed in the U.S. while the Dow Jones Index shed 31.44 points to close at 5,689.82.
+Price movements of NZ stocks listed in the U.S., Britain and Australia.
+Company		   Exchange    Last	  Net change
+Tranz Rail		    N.Y.    US$13 3/4	 -0 1/8
+FCL Bldg			N.Y.    US$21	     -0 1/4
+FCL Engy			N.Y.    US$22 1/4	    nil
+FCL Paper		     N.Y.    US$19 5/8	    nil
+FCL Forest		    N.Y.    US$13	     +0 1/2
+Telecom			 N.Y.    US$74 3/8	 +1 1/8
+Guinness Peat		 London    untraded	   n/a
+Brierley			London    untraded	   n/a
+NZ IT			   London    228 p		nil
+Foreign & Col		 London    157.5 p	     -1
+Templeton		     London    137.75 p	+0 1/2
+Lion			    Sydney    A$3.30	     n/a
+Goodman			 Sydney    A$1.33	     n/a
+Macraes			 Sydney    A$3.17	     n/a
+Notes - In New York, Telecom's American Depository Receipts are traded in bundles of 16 shares, while both the Fletcher Challenge shares are in bundles of 10 each. Tranz Rail ADSs are groups of three ordinary shares.
+- London prices are mid-rates.
+-- Wellington Newsroom 64 4 4734 746

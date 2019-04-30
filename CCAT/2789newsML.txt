@@ -1,0 +1,9 @@
+International Business Machines Corp and Sun Microsystems Inc said they had agreed to integrate IBM's Taligent technology into Sun's Java software to give Java a more international accent.
+The Taligent enhancements would allow Java, which is a software development system written by programmers working in American English, to automatically recognize the language differences of individual countries.
+They said the Taligent software to be utilized in Java is based on the Unicode international character set that allows computer programmers to develop software for global use.  
+The Taligent software will allow Java software applets and full-size applications to adapt to international dating systems, non-U.S. currencies, and other numbers and characters that fit a respective countries' language format.
+Java is a programming system that allows software designers to transform the billboard like screens of computer screens into dynamic scenes that incorporate not only text, but moving graphics, video, and sound features.
+Scores of leading international computer, communications, and consumer electronics companies have licensed Java software for use in Internet related products they are developing.  
+"Internationalization is a critical component for Java that our developers have been asking us to provide,"  said Jon Kannegaard, vice president of software products at JavaSoft, the division responsible for developing Sun's Java software.
+Taligent was orginally formed in 1991 as a joint venture which included Apple Computer Inc and IBM and later, Hewlett-Packard Co.
+-- Eric Auchard, New York Newsdesk, 212-859-1736

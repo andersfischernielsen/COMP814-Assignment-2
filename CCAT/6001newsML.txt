@@ -1,0 +1,37 @@
+Cargo imports at Okecie International Airport in Warsaw increased in the January-to-May period by 18.5 percent in 1996 from 1995, according to data provided to Reuters.
+Data were supplied by the airport's cargo handling agent, LOT Ground Services Sp z oo, owned 51 percent by Polish state-owned airline Polskie Linie Lotnicze LOT SA and 49 percent by the  Polish Airports State Enterprise (PPL).
+ CARGO IMPORTS (in tonnes)		1996     1995  PCT CHANGE
+--------------------------------------------------------------
+ YEAR TO DATE			    8,815.5  7,439.4	 +18.5
+ --chartered flights			65.7    159.0	 -58.7
+ --scheduled flights domestic	   93.5    101.7	  -8.1
+ --scheduled flights international 7,042.5  6,218.6	 +13.2
+ --trucks				  1,613.8    960.1	 +68.1
+ MAY					 1,966.9  1,576.1	 +24.8
+ --chartered flights			37.3    110.2	 -66.2
+ --scheduled flights domestic	   20.6     18.7	 +10.2
+ --scheduled flights international 1,544.1  1,238.3	 +24.7
+ --trucks				    364.9    208.9	 +74.7
+ APRIL				     1,826.1  1,507.2	 +21.2
+ --chartered flights			 9.2	0.0	     -
+ --scheduled flights domestic	   17.9     20.1	 -10.9
+ --scheduled flights international 1,452.6  1,285.6	 +13.0
+ --trucks				    346.4    201.5	 +71.9
+ MARCH				     1,864.6  1,673.6	 +11.4
+ --chartered flights			 1.2	0.7	 +71.4
+ --scheduled flights domestic	   23.2     20.8	 +11.5
+ --scheduled flights international 1,513.8  1,426.4	  +6.1
+ --trucks				    326.4    225.7	 +44.6
+ FEBRUARY				  1,555.1  1,283.3	 +21.2
+ --chartered flights			 0.4     24.2	 -98.3
+ --scheduled flights domestic	   16.3     19.3	 -15.5
+ --scheduled flights international 1,293.0  1,116.6	 +15.8
+ --trucks				    245.4    123.2	 +99.2
+ JANUARY				   1,602.8  1,399.2	 +14.6
+ --chartered flights			17.6     23.9	 -26.4
+ --scheduled flights domestic	   15.5     22.8	 -32.0
+ --scheduled flights international 1,239.0  1,151.7	  +7.6
+ --trucks				    330.7    200.8	 +64.7
+--------------------------------------------------------------
+Chartered flights include supplemental scheduled flights.
+-- Ryan Tutak, Budapest newsroom (36 1) 266 2410

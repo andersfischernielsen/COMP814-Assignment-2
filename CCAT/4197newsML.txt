@@ -1,0 +1,9 @@
+Includes all companies that have reported EPS and have at
+least one quarterly estimate in I/B/E/S. Reported estimate are
+compared to I/B/E/S mean to calculate a surprise factor.
+--------------------------------------------------------
+COMPANY			   MEAN ESTIMATE
+HARNISCHFEGER IN		$0.74
+TOYS R US			 $0.08
+HARCOURT GENERAL		$1.45
+MEDTRONIC INC		   $0.54

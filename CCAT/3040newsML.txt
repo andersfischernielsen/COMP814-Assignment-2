@@ -1,0 +1,41 @@
+The following are lists of positive and negative earnings surprises compiled by First Call.  Earnings surprises and historical information are provided by First Call.
+			 First Call Earnings Surprises
+Positive Surprises
+------------------	First Call
+				   Consensus  Actual
+Company Name	 Period     EPS	EPS   Surprise
+S&K Famous Brands  Q2Jul96    0.13     0.17     30.8%
+Brown Group Inc    Q2Jul96    0.25     0.31     24.0%
+National Picture   Q1Jul96    0.11     0.13     18.2%
+Layne Inc	    Q2Jul96    0.25     0.28     12.0%
+Shiloh Industries  Q3Jul96    0.28     0.31     10.7%
+PHH Corp	     Q1Jul96    0.56     0.61	8.9%
+Harnischfeger Corp Q3Jul96    0.74     0.80	8.1%
+Toys R Us Inc	Q2Jul96    0.09     0.10	N/A
+Negative Surprises
+------------------				First Call
+				   Consensus Actual
+Company Name	 Period    EPS     EPS   Surprise
+BioWhittaker Inc    Q3Jul96   0.14    0.13     -7.1%
+Designs Inc	   Q2Jul96   0.08    0.04	N/A
+			Other Companies Reporting Today
+Positive Reports
+----------------			     First Call
+				   Consensus  Actual
+Company Name	 Period     EPS	EPS     Diff.
+Harcourt General    Q3Jul96    1.45     1.45     0.0%
+SCB Computer Techno Q1Jul96    0.18     0.18     0.0%
+Negative Reports
+----------------				First Call
+				    Consensus  Actual
+ Company Name	Period     EPS	EPS     Diff.
+None Reported.
+Legend:
+N/A	All or some data necessary for calculation is
+	   unavailable.
+N/C	Not Calculable, e.g. divisor (Mean estimate) = 0, and
+	   there is more than one estimate.
+N+	 Actual EPS is larger than Mean estimate. Mean
+	   estimate is negative or zero.
+N-	 Actual EPS is smaller than Mean estimate. Mean
+	   estimate is negative or zero.

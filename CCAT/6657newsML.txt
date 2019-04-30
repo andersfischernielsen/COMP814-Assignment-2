@@ -1,0 +1,12 @@
+Banco Bradesco has issued a $100 million 13-month bond, lead manager ING Barings said.
+(Corrects to clarify issue for 13-months, not one year)
+The deal, referred to as rural notes, pays one-year Libor plus 140 basis points. This is equivalent to 7.275 percent.
+Issue and reoffer price is par.
+ AMT    $100 MLN	SPREAD     140 BP    MATURITY    03.OCT.97
+ TYPE	 FRN	 BASE	12M LIBOR  PAY DATE    03.SEP.96
+ LAST MOODY =	   ISS PRICE  PAR	 FULL FEES   25 BP
+ LAST S&P   =	   REOFFER    PAR
+ LISTING    NONE	DENOMS (K) 10-100    SALE LIMITS US/UK/BR
+ GOV LAW    ENGLISH   HOME CTRY  BRAZIL    TAX PROVS   =
+ MGT/UND    15 BP     SELL CONC  10 BP     PRAECIP     =
+-- London Newsroom +44 171 542 8863

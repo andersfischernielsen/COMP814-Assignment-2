@@ -1,0 +1,27 @@
+COMPUSERVE CORPORATION
+			 CONSOLIDATED STATEMENTS OF OPERATIONS
+(AMOUNTS IN THOUSANDS, EXCEPT SHARE AND PER SHARE DATA)
+						   3 Months Ended July 31
+							 1996	   1995
+REVENUES
+   Online Services revenues		 $141,414     $134,192
+   Network Services revenues		  59,278	 45,064
+   Other revenues				  7,950	  7,293
+     TOTAL REVENUES			    208,642	186,549
+COSTS AND EXPENSES
+   Costs of revenues			   139,696	 82,230
+   Marketing					59,031	 27,577
+   General and administrative		  9,494	  9,633
+   Depreciation and amortization	    26,853	 14,522
+   Product development			   7,056	  6,982
+   Nonrecurring items			   17,713	     --
+     TOTAL COSTS AND EXPENSES		259,843	140,944
+ OPERATING EARNINGS/(LOSS)		  (51,201)	 45,605
+ INTEREST INCOME				   3,131	     --
+ EARNINGS/(LOSS) BEFORE TAXES	     (48,070)	 45,605
+ TAXES ON EARNINGS/(LOSS)		   (18,455)	 18,770
+ NET EARNINGS/(LOSS)			 ( 29,615)	 26,835
+ EARNINGS/(LOSS) PER SHARE		   ( 0.32)	   0.36
+WEIGHTED AVERAGE COMMON SHARES
+   OUTSTANDING				92,600,000   74,200,000
+NOTE - First quarter net income included a one-time pre-tax charge of $17.7 million, or $0.13 per share. After tax, the charge was $12.5 million.

@@ -1,0 +1,33 @@
+Chrysler Financial Corp has issued a four-tranche asset-backed bond for a total of $1.25 billion, lead manager Merrill Lynch said.
+The deal will be priced later.
+Tranche A notes total $600 million and have an average life of 0.95 years. They will be priced to yield around 0.75 basis points over one-month Libor with a 12 percent cap.
+Tranche B fixed-rate notes total $353 million and have an average life of 2.05 years. Pricing is expected at 29-30 b.p. over two-year U.S. Treasury notes.  
+Tranche C notes total $240.742 million. Maturing in October 2001, they will be priced to yield 33 b.p. over U.S. Treasuries.
+Tranche D is for $56.249 million. Maturity is August 2002, and pricing is likely around 50 b.p. over Treasuries.
+* * * *
+TRANCHE A (CLASS A2)
+ AMT    $600 MLN	SPREAD     *0.75     LEGAL MAT   06.SEP.99
+ TYPE	 FRN	 BASE	 1M LIBOR  AV LIFE     0.95 YRS
+ FULL FEES  0.1625    ISS PRICE  ** REOFFER     **
++ + + +
+TRANCHE B (CLASS A3)
+ AMT    $353 MLN	COUPON     **	  LEGAL MAT   06.NOV.00
+ TYPE	 STRAIGHT  ISS PRICE  **	  AV LIFE     2.05 YRS
+ FULL FEES  0.20	REOFFER    **	  SPREAD	+29/30 BP
++ + + +
+TRANCHE C (CLASS A4)
+ AMT    $240.742 MLN  COUPON     **	  MATURITY    06.OCT.01
+ TYPE	 STRAIGHT  ISS PRICE  **
+ FULL FEES  0.25	REOFFER    **	  SPREAD	+33 BP
++ + + +
+TRANCHE D (CERTIFICATES)  AMT    $56.249 MLN   COUPON     **	  MATURITY    06.AUG.02
+ TYPE	 STRAIGHT  ISS PRICE  **
+ FULL FEES  0.325     REOFFER    **	  SPREAD	+50 BP
++ + + +
+COMMON TERMS
+ LISTING    LUX	 PAY FREQ   MONTHLY   DENOMS (K) ONE
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   NO
+ GOV LAW    NEW YORK  HOME CTRY  =	   TAX PROVS   STANDARD
+ NOTES	*12.0 PCT CAP
+	     **TO BE PRICED
+-- London Newsroom +44 171 542 7658

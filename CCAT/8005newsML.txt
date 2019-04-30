@@ -1,0 +1,12 @@
+The following bond was announced by joint lead managers Banque Generale du Luxembourg, Commerzbank and Generale Bank.
+ BORROWER   COMMERZBANK LUXEMBOURG
+ AMT    2.0 BLN LUF   COUPON     6.25 PCT  MATURITY    23.DEC.03
+ TYPE	 STRAIGHT  ISS PRICE  102.45    PAY DATE  L-23.OCT.96
+ FULL FEES  1.875     REOFFER    =	   YIELD	 5.82 PCT
+ NOTES	L-LONG FIRST COUPON
+ MOODY	AA3	 LISTING    LUX	 PAY FREQ    =
+ S&P	  AA-	 DENOMS (K) 50-250    SALE LIMITS US/UK
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   YES
+ GOV LAW    LUX	 HOME CTRY  =	   TAX PROVS   =
+ MGT/UND    =	   SELL CONC  =	   PRAECIP     0.25
+-- London Newsroom +44 171 542 7658

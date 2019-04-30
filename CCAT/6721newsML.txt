@@ -1,0 +1,6 @@
+Morgan Stanley (Jersey) Ltd has issued 50,000 American-style call warrants, on the JSE Top 40 All Share Index, joint lead managers Morgan Stanley Bank AG and Morgan Stanley & Co International Limited said.
+ STRIKE PRICE    105 PCT		   PREMIUM	20.0 PCT
+ ISSUE PRICE     150.00 DEM		GEARING	6.67 X
+ MATURITY DATE   20.AUG.98		 PAYDATE	20.AUG.96
+ LISTING	   LUX			 MIN EXER LOT 100
+-- Reuter London Newsroom +44 171 542 7658

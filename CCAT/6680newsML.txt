@@ -1,0 +1,7 @@
+Credit Suisse says it has issued two million American-style call and put warrants, in two equal tranches, on the 4.25 pct Eidgenossenschaft due January 8, 2008.
+ EXERCISE PERIOD 05.SEP.96-05.MAR.97   PAYDATE	04.SEP.96
+ LISTING	   SWISS		     MIN EXER LOT 100
+ WARRANTS	STRIKE	 ISS PRICE     PREMIUM	GEARING
+ CALL	    99.50 PCT    1.16 SFR	2.9 PCT	85 TIMES
+ PUT	     96.50 PCT    1.22 SFR	2.5 PCT	79 TIMES
+-- Reuter London Newsroom +44 171 542 7658

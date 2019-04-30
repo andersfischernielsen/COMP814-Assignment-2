@@ -1,0 +1,30 @@
+Three Months Ended  Six Months Ended
+			     July 31,		    July 31,
+			    1996	  1995	 1996	 1995
+Revenues:
+Product and license
+   revenue	    $ 1,735     $ 2,101    $ 2,973    $ 4,427
+  Maintenance revenue   462	   415	  934	  797
+ Total revenues	 2,197	 2,516	3,907	5,224
+Operating costs and expenses:
+Cost of product, license and maintenance revenue  
+				860	   961	1,741	2,256
+  Sales and marketing   989	   873	1,939	1,803
+Research and development
+				753	   638	1,431	1,116
+General and administrative
+				364	   404	  896	  740
+Total operating costs and
+  expenses		2,966	 2,876	6,007	5,915
+ Operating loss	 (769)	 (360)    (2,100)	(691)
+ Interest expense	   1	     4	    2	    6
+ Interest income	   27	    53	   58	  112
+Other (expense) income, net
+				  5	    13	   12	   50
+ Net loss		( 738)	( 298)   ( 2,032)     ( 535)
+Net loss per common share
+			  ( 0.09)     ( 0.04)    ( 0.27)    ( 0.08)
+Weighted average numbe of common shares outstanding
+			8,440,978   6,757,632  7,616,860  6,744,916
+Note: Full company name is Kurzweil Applied Intelligence Inc.
+(in thousands, except for per share amounts) -- New York Newsdesk 212-859-1610.

@@ -1,0 +1,9 @@
+Novell Inc Tuesday unveiled IntranetWare, a new service designed to establish the company in the growing corporate intranet market.
+The product is a full service intranet and Internet access platform for businesses of all sizes and builds upon the services offered in its Netware 4.11 software.
+The latest software offers a high-performance Web server and browser, a gateway for networking protocols as well as a multiprotocol router for wide-area networks and Internet connections.  
+Novell did not reveal the pricing of the software which it plans to release in the fall.
+The company said IntranetWare is compatable with existing Novell networking software and will allow firms to preserve existing network investments by allowing them to selectively install the networking components needed to upgrade their systems to meet new demands.
+Novell said it will concentrate IntranetWare in the future but will continue to sell and support NetWare 4 and NetWare 3.
+"With IntranetWare, Novell opens our product line and 55 million to the future of networking," said Robert Frankenberg, chairman and chief executive officer.
+Novell said the new software is secure acting as a "level-one security firewall" because only the network server carries out all tasks in contrast to traditional systems where numerous users have that capability.
+Orem, Utah-based Novell has been active in networking software since 1983 but has fallen behind Netscape Communications Corp and Microsoft Corp in building intranet market share.

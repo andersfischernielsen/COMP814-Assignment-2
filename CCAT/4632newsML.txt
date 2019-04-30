@@ -1,0 +1,11 @@
+BORROWER - Daiichi Cement Co Ltd
+LEAD MGR - Nikko Securities Co Ltd
+TRUSTEE - Fuji Bank Ltd
+ TYPE convertible     ISSUE NO   3	  AMT   4 bln yen
+ COUPON		   ISS PRICE  PAR	MATURITY 30.Sep.03
+CONV PRICE
+ CONV FROM 1.Nov.96   CONV TO 29.Sep.03
+ LAST MOODY	     PAY DATE 13.Sep.96  INT PAY end Mar/Sep
+ LAST S&P		 SIGN DATE	     SUB DATE 6.Sep-12.Sep
+ LAST JCR   BBB-	LAST JBRI	     LAST NIS
+The coupon and conversion price will be decided on September 5.

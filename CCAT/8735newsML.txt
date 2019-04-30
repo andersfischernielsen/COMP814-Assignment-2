@@ -1,0 +1,14 @@
+Company Name		 Viisage Technology Inc
+Nasdaq Stock symbol	     VISG
+Estimated price range	   N/A
+Total shares to be offered    2.5 million
+Shrs offered by company	 2 million
+Shrs offered by shareholders  500,000
+Shrs outstanding after ipo    7,680,000
+Lead Underwriter    Cowen and Co
+Underwriters over-allotment  375,000 shrs
+Business: Designs, sells and implements turnkey digital identification systems intended to deter fraud and to reduce customers' identification program costs.
+Use of Proceeds: To repay certain debt and for general corporate purposes, including working capital.
+Financial Data in 000s:     1995		 1994
+   - Revenue		 $11,221	     $1,257
+   - Net Income (loss)   ($2,947)	   ($2,401)

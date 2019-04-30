@@ -1,0 +1,27 @@
+Cargo trade at Okecie International Airport in Warsaw increased 21.3 percent in May 1996 from May 1995, according to data provided to Reuters.
+Data were supplied by the airport's cargo handling agent, LOT Ground Services Sp z oo, owned 51 percent by Polish state-owned airline Polskie Linie Lotnicze LOT SA and 49 percent by the  Polish Airports State Enterprise (PPL).
+ CARGO TRADE (in tonnes)		 MAY 96   MAY 95 PCT CHANGE
+--------------------------------------------------------------
+ TOTAL TRADE				3,015.5  2,486.3	+21.3
+ --chartered flights			 43.5    110.2	-60.5
+ --scheduled flights domestic	   282.4    258.0	 +9.5
+ --scheduled flights international  2,198.4  1,829.4	+20.2
+ --trucks				     491.2    288.7	+70.1
+ TOTAL EXPORTS			    1,048.6    910.2	+15.2
+ --chartered flights			  6.2	0.0	    -
+ --scheduled flights domestic	   261.8    239.3	 +9.4
+ --scheduled flights international    654.3    591.1	+10.7
+ --trucks				     126.3     79.8	+58.3
+ TOTAL IMPORTS			    1,966.9  1,576.1	+24.8
+ --chartered flights			 37.3    110.2	-66.2
+ --scheduled flights domestic	    20.6     18.7	+10.2
+ --scheduled flights international  1,544.1  1,238.3	+24.7
+ --trucks				     364.9    208.9	+74.7
+ TRADE BALANCE			     -918.3   -665.9	    -
+ --chartered flights			-31.1   -110.2	    -
+ --scheduled flights domestic	  +241.2   +220.6	    -
+ --scheduled flights international   -889.8   -647.2	    -
+ --trucks				    -238.6   -129.1	    -
+--------------------------------------------------------------
+NOTE - In the trade balance, positive numbers indicate export surpluses; negative numbers indicate export deficits. Chartered flights include supplemental scheduled flights.
+-- Ryan Tutak, Budapest newsroom (36 1) 266 2410

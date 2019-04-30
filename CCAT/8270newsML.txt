@@ -1,0 +1,7 @@
+The following are among the companies reporting quarterly earnings today and this week. Reporting dates, analysts' mean estimates and historical information are provided by First Call.
+-------------------------------------------------------------
+SYMBOL   COMPANY		  QTR  EST  PREV  ANNUAL
+BFB     Brown-Forman Corp Cl B 1  0.48  0.46  2.51 22-aug
+CHRS    Charming Shoppes	 2  0.00 -0.03  0.04 22-aug
+NOVL    Novell Inc		 3  0.18  0.27  0.41 22-aug
+VAT     Varity Corp		2  0.85  0.78  3.73 21-aug

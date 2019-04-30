@@ -1,0 +1,4 @@
+Novell Inc, a unit of Xerox Corp and WhetStone Technologies have agreed to develop and market a product that would enable users of Novell's GroupWise e-mail system to view, edit and store images at their desktops, the companies said Wednesday.
+The agreement will allow Novell's 6.5 million GroupWise users to leverage its e-mail, document management and workflow features for scanned and stored images, according to a news release.
+The product, GroupWise Imaging, will integrate Novell's GroupWise 5 Universal Mail Box, Xerox Desktop Document Systems' scanning and imaging technology and WhetStone's production-imaging system.
+WhetStone is an affiliate of UICI.

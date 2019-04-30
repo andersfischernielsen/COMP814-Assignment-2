@@ -1,0 +1,8 @@
+Microsoft Corp and Security Dynamics Technologies Inc said on Wednesday that they signed a number of cross-licensing agreements on security technology.
+The pacts grant Microsoft greater access to encryption and authentication token technology developed by Security Dynamics and its RSA Data Security Inc subsidiary, including new licensing rights to software for supporting Security Dynamics' SecurID token technology in future Microsoft products.  
+The pacts would let corporate users increase security through the addition of SecurID token authentication to the Windows NT Server network operating system and Microsoft Internet Information Server.
+The agreements also make developers' toolkits from RSA available which feature Microsoft's cryptographic programming interfaces, CryptoAPI, allowing the addition of secure features to software products in development.
+RSA will receive an ongoing revenue stream from Microsoft based on the use of patented RSA technology.
+Microsoft will license CryptoAPI to RSA, including rights to incorporate CryptoAPI into RSA's BSAFE and other security toolkit products, to port CryptoAPI to new platforms, and to build on Microsoft's base set of cryptography services.
+Similar agreements were struck convering Security Dynamics software.
+--New York Newsdesk, 212/859-1610

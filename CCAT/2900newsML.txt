@@ -1,0 +1,16 @@
+($ in thousands, except for per-share and share data)
+							  12 Weeks Ended
+							 Jul 13,    Jul 17,
+							    1996	1995
+ Net Sales					    24,935     25,900
+ Net Income (loss)				   (313)	  101
+ Net income (loss) per share		    (0.07)	 0.02
+ Weighted average shares outstanding     4,519,521  4,538,380
+							   24 Weeks Ended
+							 Jul 13,    Jul 17,
+							   1996	 1995
+ Net Sales					  $ 52,074   $ 53,551
+ Net Income (loss)				   (194)	  769
+ Net income (loss) per share		    (0.04)	 0.17
+ Weighted average shares outstanding     4,519,775  4,543,786
+NOTE: 1996 Q2 includes a charge of $0.03 a share from legal costs related to an unsuccessful acquisition effort.

@@ -1,0 +1,19 @@
+As America Online continues to dominate the online services business and new competitors jump into Internet access, online service providers like CompuServe are under more pressure as they try to adapt to the changes.
+Tuesday, CompuServe reported a loss for the first quarter and a decline in subscribers, which it had predicted last month. But it also said its losses will carry into the second quarter, which raised some eyebrows on Wall Street.
+"In online services, there is AOL and everyone else," said Adam Schoenfeld, a vice president at Jupiter Communications.  
+"They (CompuServe) made a strategic decision to abandon their profitable model and they are trying to compete head to head with AOL and they are now paying a price for that," Schoenfeld said.
+CompuServe said its losses were due to the decline in subscribers, incremental costs for its Wow! service aimed at novice users, the new version of the CompuServe Information Service, 3.0, and infrastructure improvements in its network.
+CompuServe is moving its service to the lower-cost, open architecture of the Internet, but its investment in the new architecture comes at a bad time, a few months after its IPO.  
+In April, CompuServe went public, at an initial offering price of $30 a share. On Wednesday, it's shares closed at 11-7/8 after tumbling 1-5/8 on its first quarter report.
+And even though America Online still dominates the market, it too has had its share of problems recently and it started a new pricing plan to compete with the encroaching Internet access providers. Two weeks ago, AOL suffered a severe embarrassment when its network was down for 19 hours.
+America Online has over six million subscribers to CompuServe's 5.2 million, which includes members of NiftyServe, a joint-venture in Japan.  
+Some analysts, however, still forecast that even with AOL's recent problems, the company will still likely reach its target of 10 million subscribers by next year.
+"AOL's still growing and CompuServe is not, that's a problem," said Abhishek Gami, of Nesbitt Burns Securities in Chicago. "AOL will continue to be the market share leader for the proprietary service and the plain vanilla ISPs (Internet service providers) will continue to take share from AOL."
+Analysts said telcos giants, like AT&T with WorldNet service and now Sprint Corp, will make major inroads in the Internet access market, with their huge customer base.  
+"Everyone is trying to cover their bets and provide access and content. Ultimately, I think those guys will have their niche," said Doug Rutherford, an industry analyst with Zona Research in Redwood City, Calif. "Why wouldn't you go with AT&T, MCI, or Sprint, if it's all on the same bill. If you are getting a dial tone, do you care who your phone company is?"
+Emily Green, an analyst at Forrester Research, has been long predicting a shift away from online service providers, in favor of direct Internet access providers, as they change too.
+"I still think AOL is going to plateau next year," Green said, adding that she does not see members reaching 10 million.  
+"I definitely still believe fervently that long term, the ISPs take a lot of opportunity from the online services and what you are seeing is this blending and ultimately the ISPs will look a lot like online services," Green added.
+Both CompuServe's and Prodigy's move to become Web-based makes sense from an economical viewpoint, because they get away from managing a costly, proprietary network, with everything based on the Internet. But the move is risky and so far, analysts who have seen an early version of Prodigy on  the Web are not that impressed.
+"CompuServe and Prodigy, are going to keep playing around with the rules and how can you get paid for your service," Gami of Nesbitt Burns said.
+"The Web market hasn't developed."

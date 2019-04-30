@@ -1,0 +1,26 @@
+Twenty highest dividend yields for Australian companies included in the 320-share All Ordinaries Index based on closing prices on Wednesday.
+Dividends based on rolling 12 months.
+Yields are not grossed up for franking credits.
+				  Dividend
+Rank Name		     Yield    Close
+ 1   Kalamazoo Hlds	 19.11    2.25
+ 2   Central Norseman     14.06    0.96
+ 3   Telecasters Nqld     13.59    5.15
+ 4   Pac Mutal Aust	 12.61    2.38
+ 5   Nth Building Soc     11.93    2.62
+ 6   Multistack	     11.11    0.27
+ 7   Kurts (P) Prop	 10.87    1.38
+ 8   Prime Credit Tr	10.65    0.92
+ 9   Prop Income Inv	10.53    0.97
+10   Indu Property	  10.34    0.88
+11   BT Prop Trust	  10.14    1.61
+12   Colonial Mutual	 9.98    1.06
+13   Gem Property Tr	 9.73    1.44
+14   OLS Asia Hldgs	  9.73    0.75
+15   Villa World	     9.52    1.05
+16   Blackmores Lab	  9.41    3.40
+17   Central Equity	  9.38    0.96
+18   Parbury Ltd	     9.38    0.48
+19   Gandel Retail Tr	9.18    0.85
+20   Armstrong Retail	8.90    0.73
+-- Sydney Newsroom 61-2 373-1800

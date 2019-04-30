@@ -1,0 +1,8 @@
+(Dollar and share amounts in thousands, except per share data)
+						     Three Months Ended
+							  Jul 27,   Jul 29,
+							    1996	 1995
+ Net sales					   $225,026  $230,789
+ Net loss					     (8,181)   (6,469)
+ Loss per share					 (.24)     (.19)
+ Average number of shares outstanding	  33,497    33,567

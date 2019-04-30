@@ -1,0 +1,7 @@
+Ten powerful high-technology companies are investing in a $100 million venture fund to support startups developing Internet software using Java as a progamming language, The Wall Street Journal reported on Wednesday.
+International Business Machines Corp, Tele-Communications Inc, Sun Microsystems Inc, Compaq Computer Corp, U S West Communications Group, Netscape Communications Corp and Oracle Corp are among the investors in the Java Fund. It will be administered by venture-capital firm Kleiner Perkins Caulfield & Byers.
+The widespread endorsement for the Java Fund, which also includes investments from Cisco Systems Inc, Comcast Corp and Japan's Itochu Corp, marks an unprecedented rate of adoption for a single technology across a wide range of high-tech industries, the newspaper said.
+"Nothing like this level of adoption and endorsement has ever happened in computing," said John Doerr, a partner at Kleiner Perkins.
+Beyond financial investment, companies are also planning on putting their weight behind new technologies in return for getting early access to any breakthroughs.
+Java has been hailed as a revolutionary technology because of its ability to create multimedia computer programs that work on all operating systems. Many industry experts believe that may help put an end to Microsoft Corp's dominance of the software industry, which has long relied on the Windows platform that Microsoft controls.
+-- New York newsroom, (212) 859-1610

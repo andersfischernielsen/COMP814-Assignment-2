@@ -1,0 +1,7 @@
+Venture capital firm Kleiner Perkins Caufield & Byers said on Wednesday it had closed the KPCB Java Fund, a $100 million venture capital fund focused on Java technology-based companies and related Internet, intranet, networking and communications companies.
+In a statement, KPCB said corporate partners of the fund include industry leaders in internetworking, personal computers, enterprise computing, Internet software, database software, and communications.  
+The companies are Cisco Systems Inc, Comcast Corp, Compaq Computer Corp, International Business Machines Corp, Japan's Itochu Corp Netscape Communications Corp, Oracle Corp, Sun Microsystems Inc, Tele-Communications Inc and U S West Media Group.
+Developed by Sun Microsystems, Java is an open platform technology that enables distributed applications, interactivity, security, and platform independence over the Internet as well as intranets. Forty-seven corporations have licensed the technology.
+The initial investments in the Java Fund are Active Software, Calico Technology, and Marimba.  Active Software, founded in 1995, is a privately held company focused on extending information systems to the Web.
+Calico Technology is a provider of interactive, enterprise configuration products.  Marimba provides technologies for developing and deploying network-aware Java applications.
+-- New York newsroom, (212) 859-1610

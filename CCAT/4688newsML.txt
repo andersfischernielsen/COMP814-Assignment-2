@@ -1,0 +1,10 @@
+Year to June 30, 1997
+		   (in billions of yen unless specified)
+			   LATEST	    ACTUAL
+ (Parent)	     FORECAST	  YEAR-AGO
+ Sales		 48.00		52.10
+ Current		2.80		    3
+ Net		    1.80		 1.49
+ EPS		  121.30 yen	 110.69 yen
+ Ord div	     18.00 yen	  18.00 yen
+NOTE - I-O Data Device Inc manufactures PC memory boards.

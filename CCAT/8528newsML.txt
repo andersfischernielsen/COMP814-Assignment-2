@@ -1,0 +1,20 @@
+The 21st-century land grab to register desirable Internet addresses may be about to cool.
+The Internet Assigned Numbers Authority, which oversees certain Internet standards, has decided to give out several new licenses to firms that will register new top-level or "domain" names starting in 1997, authority head Jon Postel said in a telephone interview Thursday.
+Currently, Network Solutions Inc. of Herndon, Va., has the sole license from the authority to register address names in the most common top-level categories.
+Most Internet addresses end with one of a few three-letter designations, including "com" for commercial sites, "gov" for government sites and "edu" for sites run by schools.
+The availability of new names and competing registration services should help quell disputes over popular or trademarked names, attorneys and Internet specialists said.
+Network Solutions registers names for sites in those three so-called top-level domains, along with "org" and "net," charging $100 for a two-year registration.
+That greatly limits the number of available names, creating competition and even bidding wars for prestige monikers like "television.com" or "cybercafe.com."
+Disputes are arising more frequently, usually when the holder of a trademark discovers that someone else is using their trademark as the name of an Internet site.
+For example, Viacom Inc.'s MTV cable music channel fought with Adam Curry, a "vee-jay" who registered "mtv.com" as an Internet name. MTV eventually regained control of the name in an out-of-court settlement.
+Once new top-level domain names are available, three or four people could register similiar names.
+The numbers authority is appointing a committee that will review applications from companies interested in registering names under the new top-level domains, Postel said. Ultimately, a few companies will be given authority over three new top-level domains each, he said.
+The committee will begin accepting applications in October and new names could be in service by the end of January.
+The registration companies will be able to set their own prices, with a small percentage of the fees going into a fund to improve the Internet's central infrastructure, Postel said.
+"With competition, you're using market forces to get lower prices and better services," Postel said.
+Network Solutions officials were not immediately available for comment.
+Additional top-level names should help resolve disputes over trademarked names by providing more options, perhaps allowing similar names under different domains.
+However, particularly well-known trademarks owned by major companies, such as McDonalds Corp., are likely to retain sole Internet rights in any domain.
+Network Solutions generally recognises holders of federally registered trademarks while ignoring other forms of legally recognised trademarks such as common law trademarks, attorneys said.
+"You can have multiple trademarks for the identical mark (name), provided the goods or services are unrelated," said Jere Webb, an intellectual property attorney at Stoel Rives in Portland, Ore.
+"Companies are going beserk when they discover that their name with '.com' after it has already been grabbed by somebody else," Webb said. "If they can't do anything about it, which in many cases they can't because it is for unrelated goods or services, then they are in a quandary. This would give them some avenue or out."

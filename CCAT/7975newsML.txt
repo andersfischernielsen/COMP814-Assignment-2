@@ -1,0 +1,15 @@
+The following bond was announced by lead manager Banque Generale du Luxembourg.
+ BORROWER   GENFINANCE LUXEMBOURG
+GUARANTOR  GENERALE BANK BRUSSELS (AA3)
+ AMT    3.0 BLN LUF   COUPON     *5.125    MATURITY   *08.DEC.04
+ TYPE	 STEP-UP   ISS PRICE  102.40    PAY DATE  L-08.OCT.96
+ FULL FEES  2.0	 REOFFER    =	   YIELD	 6.04 PCT
+ NOTES	*FOR FIRST FOUR YEARS AND TWO MONTHS THEN 8.125 PCT
+		 THEREAFTER
+(Corrects to show bond is not callable.)
+	     L-LONG FIRST COUPON
+ MOODY	=	   LISTING    LUX	 PAY FREQ    =
+ S&P	  =	   DENOMS (K) 50-250    SALE LIMITS =
+ GOV LAW    LUX	 HOME CTRY  =	   TAX PROVS   =
+ MGT/UND    =	   SELL CONC  =	   PRAECIP     0.25
+-- London Newsroom +44 171 542 7658

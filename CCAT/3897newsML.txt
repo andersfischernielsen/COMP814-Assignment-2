@@ -1,0 +1,23 @@
+The Credit Rating Information Services of India Ltd (CRISIL) announced its ratings for the following six fixed deposits and two non-convertible debentures.
+.
+Company		  Instrument Rating Issue size(Rupees)/
+								  Comment
+* Boom Investments Pvt.Ltd FD   FA-
+* Liquid Investment &
+  Trading Co.		  FD   FA-
+* Mohair Investment &
+  Trading Co. Pvt. Ltd.    FD   FA-
+* CIFCO Finance Ltd.	 FD   FB     (Downgraded from FA)
+* L&T Finance Ltd.	   FD   FAA-   (Upgraded from FA+)
+* Flex Industries Ltd.     NCD  A+     (For 200 million)
+* Lok Housing &
+  Construction Ltd.	  NCD  BB     (For 800 million)
+						   (Downgraded from A- with
+						    ratingwatch)
+				   FD   FB     (Downgraded from FA with
+						    ratingwatch)
+.
+Note: AAA/FAAA indicates highest safety, AA/FAA high safety, A/FA adequate safety, BBB moderate safety, BB/FB inadequate safety and D default for the partly convertible debentures (PCD), non convertible debenture (NCD), optionally convertible debentures (OCD),fixed deposits (FD), floating yield bonds (FYB) and floating rate bonds (FRB) issues, auction rated note (ARN), Certificate of Deposit (CD), Secured Convertible Premium Notes (SCPN), Convertible Premium Notes (CPN), Floating Rate Note (FRN), Structured Obligation (so), Pass Through Certificates (PTC), Short Term Debt (STD).
+P1 indicates very strong, P2 strong and P3 adequate for commercial paper (CP) issues. SO means structured obligation.
+Crisil may apply '+'(plus) or '-' signs for ratings from AA to C and FAA to FC to reflect comparative standing within the category, and '+' (plus) sign for ratings from P1 to P3 to reflect a comparatively higher standing within the category. CRISIL uses prefix of "pf" to its long term rating symbols for preference shares.
+'F' is used as a prefix for Fixed Deposit ratings.

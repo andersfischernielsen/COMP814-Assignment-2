@@ -1,0 +1,11 @@
+British physicists said on Wednesday they had made a laser out of plastic -- which they said would open up new avenues for using lasers.
+They used polyphenylenevinylene (PPV), a plastic known to have luminescent properties, to make the polymer laser.
+A plastic laser would have many uses and would be cheaper and easier to make compared to one using crystals or a gas, the team at the Cavendish Laboratory in Cambridge wrote in their report in the science journal Nature.
+"It's plastic, it's very easy to handle, it's robust, you can cover large areas," said Nils Tessler, a physicist and engineer who worked on the project.
+"You don't need to use very sophisticated machines to make it. You don't need ultra-clean environments."
+Lasers work by using photons, the wavelike particles that carry light. If a photon strikes an "excited" particle in a solid, liquid or a gas -- one vibrating at the correct intensity -- that particle will emit another photon travelling in the same direction as the first.
+This is called "pumping". A laser will concentrate the energy so it creates a cascade effect -- and a beam of very intense light.
+Tessler said the polymer laser -- which he said looked like a clear green or yellow plastic ruler -- had been "pumped" using another laser and had emitted a laser beam.
+"You shine in a laser, and then you make a structure with this polymer inside it, and this structure behaves like a laser," he said in a telephone interview. "This is really the beginning."
+The next step, he said, would be to use an electrical pump "like plugging it into the wall without needing any other laser light to excite it".
+Lasers are used in surgery, to play compact discs, in telecommunications and other areas. Tessler said the new laser could be used for displays, back-lit illuminations and other commercial effects.

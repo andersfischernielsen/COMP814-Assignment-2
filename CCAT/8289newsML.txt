@@ -1,0 +1,19 @@
+(Dollars in thousands except per share amounts)
+					  Three months ended
+					  Jul 31,     Jul 31,
+					     1996	 1995
+ Total revenues		     $44,186     $45,764
+ Operating loss		     (1,647)     (2,144)
+ Net loss			    ( 1,052)    ( 1,159)
+ Net loss per share		 ( 0.13)     ( 0.14)
+ Weighted average shares	8,259,000   8,238,000
+outstanding
+					   Six months ended
+					  Jul 31,     Jul 31,
+					     1996	 1995
+ Total revenues		     $80,687     $83,459
+ Operating loss		     (5,370)     (3,912)
+ Net loss			    ( 3,273)    ( 2,092)
+ Net loss per share		 ( 0.40)     ( 0.25)
+ Weighted average shares	8,256,000   8,244,000
+outstanding

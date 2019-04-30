@@ -1,0 +1,9 @@
+BORROWER - Sokkia Co Ltd
+LEAD MGR - Sakura Securities Co Ltd
+TRUSTEE - Bank of Yokohama Ltd
+ TYPE straight bond   ISSUE NO   1	  AMT   7 bln yen
+ COUPON 2.675%	  ISS PRICE  100 yen  MATURITY 11.Sep.00
+ LAST MOODY	     PAY DATE 11.Sep.96
+ 1ST INT PAY 11.Mar.97  INT PAY 11th Mar/Sep
+ LAST S&P		 SIGN DATE	     SUB DATE 21.Aug
+ LAST JCR   BBB+	LAST JBRI	     LAST NIS

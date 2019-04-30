@@ -1,0 +1,10 @@
+The following floating-rate issue was announced by lead manager Bayerische Landesbank.
+ BORROWER   AKB PRIVAT UND HANDELSBANK
+ AMT    250 MLN DEM   SPREAD     15 BP     MATURITY    03.SEP.01
+ TYPE	 FRN	 BASE	 3M LIBOR  PAY DATE    03.SEP.96
+ LAST MOODY =	   ISS PRICE  100.0     FULL FEES   20 BP
+ LISTING    DDF	 DENOMS (K) 100	 SALE LIMITS US/UK/DE
+ NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES
+ GOV LAW    GERMAN    HOME CTRY  =	   TAX PROVS   =
+ MGT/UND    10 BP     SELL CONC  10 BP     PRAECIP     4 BP
+-- London Newsroom +44 171 542 8863

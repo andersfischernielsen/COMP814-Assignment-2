@@ -1,0 +1,34 @@
+WIND RIVER SYSTEMS, INC.
+			 CONSOLIDATED STATEMENTS OF INCOME
+				(Unaudited)
+				 Three Months Ended  Six Months Ended
+					   July 31,	  July 31,
+					1996	1995    1996     1995
+(In thousands, except per share amounts)
+Revenues:
+  Product			 $10,700  $ 7,002$ 19,231 $ 13,034
+  Services			  4,300    3,098   8,369    5,766
+    Total revenues	     15,000   10,100  27,600   18,800
+Costs and expenses:
+  Cost of product		 1,246	749   2,335    1,423
+  Cost of services		1,744    1,233   3,305    2,420
+  Selling and marketing	 5,767    4,234  10,906    8,169
+Product development and
+    engineering		   1,913    1,332   3,508    2,567
+  General and administrative  1,133	819   2,151    1,575
+    Total cost and expenses  11,803    8,367  22,205   16,154
+ Operating income		 3,197    1,733   5,395    2,646
+Other income (expense):
+  Interest income		   263	196     464	388
+  Interest expense		  (8)     (11)    (19)     (24)
+Minority interest in
+consolidated subsidiary
+   and other			 (62)	 28    (60)	 11
+    Total other income	    193	213     385	375
+ Income before income taxes   3,390    1,946   5,780    3,021
+ Provision for income taxes   1,300	739   2,220    1,148
+    Net income		    2,090    1,207   3,560    1,873
+ Net income per share	    0.13     0.08    0.22     0.12
+Weighted average common
+and common equivalent shares
+   outstanding		   16,485   15,456  16,239   15,261
