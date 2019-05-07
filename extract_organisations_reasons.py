@@ -1,88 +1,9 @@
 import glob
 import pprint
+import sys
 from segtok.segmenter import split_single
 from flair.models import SequenceTagger
 from flair.data import Sentence, Span
-
-def clean_organization(org: str):
-    original = org
-    org = org.strip().lower()
-    org = org.replace("--","")
-    org = org.replace("\"","")
-    org = org.replace("'s","")
-    org = org.replace("'","")
-    org = org.replace("(","")
-    org = org.replace(")","")
-
-    if "," in org:
-        org = org.split(",")[0]
-    if "." in org: #TODO Move under the length measurement?
-        org = org.split(".")[0] 
-
-    org = org.replace(",","")
-
-    if len(org.split(" ")) > 1:
-        split = org.split(" ")
-        new_org = split[0]
-        for s in split[1:]:
-            if len(s) > 4:
-                new_org = "{} {}".format(new_org, s)
-            else: 
-                break
-        org = new_org
-    
-    org = org.capitalize()
-    print ("{} : {}".format(original, org))
-    return org
-
-def get_flair_taggers():
-    frame_tagger = SequenceTagger.load('frame-fast')
-    ner_tagger = SequenceTagger.load('ner-fast')
-    pos_tagger = SequenceTagger.load('pos')
-    return ner_tagger, frame_tagger, pos_tagger
-
-def get_organisations(sentence: Sentence) -> Span:
-    org_tags = list(filter(lambda span: "ORG" in span.tag,
-                           sentence.get_spans('ner')))
-    return org_tags
-
-def get_reason_for_appearance(organisation: Span, sentence: Sentence) -> str:
-    org_end = organisation.end_pos
-    frame_tags = sentence.get_spans('frame')
-    pos_tags = list(filter(lambda span: "VBD" in span.tag,
-                           sentence.get_spans('pos')))
-    frame_tags_after_org = list(
-        filter(lambda span: span.start_pos > org_end, frame_tags))
-    pos_tags_after_org = list(
-        filter(lambda span: span.start_pos > org_end, pos_tags))
-    if not frame_tags_after_org and not pos_tags_after_org:
-        return None
-
-    first_after_org = frame_tags_after_org[0] if frame_tags_after_org else pos_tags_after_org[0]
-    original = sentence.to_original_text()
-    end_of_reason = original.find(',', first_after_org.start_pos)
-    if not end_of_reason:
-        end_of_reason = original.find('.', first_after_org.start_pos)
-    reason = original[first_after_org.start_pos:end_of_reason]
-    return reason
-
-
-def add_to_organisation(name, reason, counts, reasons):
-    if name in reasons and reason:
-        reasons[name].append(reason)
-        counts[name] = counts[name] + 1
-    elif reason:
-        reasons[name] = [reason]
-        counts[name] = 1
-    else:
-        reasons[name] = []
-        counts[name] = 1
-
-
-def pretty_print(reasons, counts):
-    pp = pprint.PrettyPrinter()
-    pp.pprint(reasons)
-    pp.pprint(counts)
 
 
 def find_organisations(folder: str):
@@ -108,5 +29,84 @@ def find_organisations(folder: str):
 
     return org_reasons, org_counts
 
-reasons, counts = find_organisations("CCAT")
-pretty_print(reasons, counts)
+
+def get_flair_taggers() -> (SequenceTagger, SequenceTagger, SequenceTagger):
+    frame_tagger = SequenceTagger.load('frame-fast')
+    ner_tagger = SequenceTagger.load('ner-fast')
+    pos_tagger = SequenceTagger.load('pos')
+    return ner_tagger, frame_tagger, pos_tagger
+
+
+def get_organisations(sentence: Sentence) -> Span:
+    org_tags = list(filter(lambda span: "ORG" in span.tag,
+                           sentence.get_spans('ner')))
+    return org_tags
+
+
+def get_reason_for_appearance(organisation: Span, sentence: Sentence) -> str:
+    org_end = organisation.end_pos
+    frame_tags = sentence.get_spans('frame')
+    pos_tags = list(filter(lambda span: "VBD" in span.tag,
+                           sentence.get_spans('pos')))
+    frame_tags_after_org = list(
+        filter(lambda span: span.start_pos > org_end, frame_tags))
+    pos_tags_after_org = list(
+        filter(lambda span: span.start_pos > org_end, pos_tags))
+    if not frame_tags_after_org and not pos_tags_after_org:
+        return None
+
+    first_after_org = frame_tags_after_org[0] if frame_tags_after_org else pos_tags_after_org[0]
+    original = sentence.to_original_text()
+    end_of_reason = original.find(',', first_after_org.start_pos)
+    if not end_of_reason:
+        end_of_reason = original.find('.', first_after_org.start_pos)
+    reason = original[first_after_org.start_pos:end_of_reason]
+    return reason
+
+
+def clean_organization(full_text: str) -> str:
+    cleaned = full_text.strip().lower().replace("--", "").replace("\"", "") \
+        .replace("'s", "").replace("'", "").replace("(", "").replace(")", "")
+    if "," in cleaned:
+        cleaned = cleaned.split(",")[0]
+    if "." in cleaned:
+        cleaned = cleaned.split(".")[0]
+    cleaned = cleaned.replace(",", "")
+    split = cleaned.split(" ")
+    cleaned = split[0].capitalize()
+    for s in split[1:]:
+        cleaned = cleaned if len(s) < 4 else f"{cleaned} {s.capitalize()}"
+    # print(f"{full_text} : {cleaned}")
+    return cleaned
+
+
+def add_to_organisation(name, reason, counts, reasons):
+    if name in reasons and reason:
+        reasons[name].append(reason)
+        counts[name] = counts[name] + 1
+    elif reason:
+        reasons[name] = [reason]
+        counts[name] = 1
+    else:
+        reasons[name] = []
+        counts[name] = 1
+
+
+def pretty_print(*args):
+    pp = pprint.PrettyPrinter()
+    for to_print in args:
+        pp.pprint(to_print)
+
+
+def find_top_five(counts, reasons):
+    c_top_five = dict(
+        sorted(counts.items(), key=lambda item: item[1], reverse=True)[:5])
+    r_top_five = dict((item[0], reasons[item[0]])
+                      for item in c_top_five.items())
+    return r_top_five, c_top_five
+
+
+reasons, counts = find_organisations(sys.argv[1])
+top_five_reasons, top_five_count = find_top_five(counts, reasons)
+# pretty_print(reasons, counts)
+pretty_print(top_five_reasons)
