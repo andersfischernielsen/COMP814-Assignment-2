@@ -29,7 +29,7 @@ def get_reason_for_appearance(organisation: Span, sentence: Sentence) -> str:
     if not frame_tags_after_org and not pos_tags_after_org:
         return None
 
-    first_after_org = frame_tags_after_org[0] or pos_tags_after_org[0]
+    first_after_org = frame_tags_after_org[0] if frame_tags_after_org else pos_tags_after_org[0]
     original = sentence.to_original_text()
     end_of_reason = original.find(',', first_after_org.start_pos)
     if not end_of_reason:
