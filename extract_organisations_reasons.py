@@ -12,6 +12,7 @@ def find_organisations(folder: str):
     org_counts = {}
     files_processed = 1
     files = glob.glob(f'{folder}/*.txt')
+    print(f"Processing {len(files)} files in '{folder}'.")
     for path in files:
         print(f"[{files_processed}/{len(files)}] Processing {path}...")
         file = open(path, "r")
@@ -30,6 +31,7 @@ def find_organisations(folder: str):
                 add_to_organisation(name, reason, org_counts, org_reasons)
         files_processed += 1
 
+    print(f"Finished processing {len(files)} files.")
     return org_reasons, org_counts
 
 
@@ -61,7 +63,7 @@ def get_reason_for_appearance(organisation: Span, sentence: Sentence) -> str:
 
     first_after_org = frame_tags_after_org[0] if frame_tags_after_org else pos_tags_after_org[0]
     original = sentence.to_original_text()
-    end_of_reason = original.find(',', first_after_org.start_pos)
+    end_of_reason = original.find('.', first_after_org.start_pos)
     if not end_of_reason:
         end_of_reason = original.find('.', first_after_org.start_pos)
     reason = original[first_after_org.start_pos:end_of_reason]
@@ -109,6 +111,11 @@ def find_top_five(counts, reasons):
                       for item in c_top_five.items())
     return r_top_five, c_top_five
 
+
+if len(sys.argv) < 2:
+    print()
+    sys.exit(
+        "Please supply a path for text processing (e.g. 'CCAT') as an argument for this script.")
 
 reasons, counts = find_organisations(sys.argv[1])
 top_five_reasons, top_five_count = find_top_five(counts, reasons)
