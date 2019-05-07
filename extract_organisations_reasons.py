@@ -35,13 +35,11 @@ def get_reason_for_appearance(organisation: Span, sentence: Sentence) -> str:
 
 def find_organisations(folder: str):
     ner_tagger, frame_tagger = get_flair_taggers()
-    organisations = {}
+    organisation_reasons = {}
+    organisation_counts = {}
     for path in glob.glob(f'{folder}/*.txt'):
         file = open(path, "r")
-        print(path)
         lines = file.readlines()
-        print("\nOriginal text:")
-        print(" ".join(lines))
         for line in lines:
             sentence = Sentence(line)
             ner_tagger.predict(sentence)
@@ -52,15 +50,17 @@ def find_organisations(folder: str):
 
             name = organisation.text
             reason = get_reason_for_appearance(organisation, sentence)
-            print(f"{name}\n{reason}")
-            if name in organisations and reason:
-                organisations[name].append(reason)
+            if name in organisation_reasons and reason:
+                organisation_reasons[name].append(reason)
+                organisation_counts[name] = organisation_counts[name] + 1
             elif reason:
-                organisations[name] = [reason]
+                organisation_reasons[name] = [reason]
+                organisation_counts[name] = 1
             else:
-                organisations[name] = []
+                organisation_reasons[name] = []
+                organisation_counts[name] = 1
 
-    return organisations
+    return organisation_reasons
 
 
 orgs = find_organisations("CCAT")
