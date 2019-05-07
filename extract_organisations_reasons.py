@@ -1,50 +1,53 @@
 import glob
 import pprint
+import sys
 from segtok.segmenter import split_single
 from flair.models import SequenceTagger
 from flair.data import Sentence, Span
 
-def clean_organization(org: str):
-    original = org
-    org = org.strip().lower()
-    org = org.replace("--","")
-    org = org.replace("\"","")
-    org = org.replace("'s","")
-    org = org.replace("'","")
-    org = org.replace("(","")
-    org = org.replace(")","")
 
-    if "," in org:
-        org = org.split(",")[0]
-    if "." in org: #TODO Move under the length measurement?
-        org = org.split(".")[0] 
+def find_organisations(folder: str):
+    ner_tagger, frame_tagger, pos_tagger = get_flair_taggers()
+    org_reasons = {}
+    org_counts = {}
+    files_processed = 1
+    files = glob.glob(f'{folder}/*.txt')
+    print(f"Processing {len(files)} files in '{folder}'.")
+    for path in files:
+        print(f"[{files_processed}/{len(files)}] Processing {path}...")
+        file = open(path, "r")
+        lines = split_single(file.read())
+        for line in lines:
+            sentence = Sentence(line)
+            ner_tagger.predict(sentence)
+            frame_tagger.predict(sentence)
+            pos_tagger.predict(sentence)
+            organisations = get_organisations(sentence)
+            if not organisations:
+                continue
+            for organisation in organisations:
+                name = clean_organization(organisation.text)
+                reason = get_reason_for_appearance(organisation, sentence)
+                add_to_organisation(name, reason, org_counts, org_reasons)
+        files_processed += 1
 
-    org = org.replace(",","")
+    print(f"Finished processing {len(files)} files.")
+    return org_reasons, org_counts
 
-    if len(org.split(" ")) > 1:
-        split = org.split(" ")
-        new_org = split[0]
-        for s in split[1:]:
-            if len(s) > 4:
-                new_org = "{} {}".format(new_org, s)
-            else: 
-                break
-        org = new_org
-    
-    org = org.capitalize()
-    print ("{} : {}".format(original, org))
-    return org
 
-def get_flair_taggers():
+def get_flair_taggers() -> (SequenceTagger, SequenceTagger, SequenceTagger):
+    print("Loading flair models...")
     frame_tagger = SequenceTagger.load('frame-fast')
     ner_tagger = SequenceTagger.load('ner-fast')
     pos_tagger = SequenceTagger.load('pos')
     return ner_tagger, frame_tagger, pos_tagger
 
+
 def get_organisations(sentence: Sentence) -> Span:
     org_tags = list(filter(lambda span: "ORG" in span.tag,
                            sentence.get_spans('ner')))
     return org_tags
+
 
 def get_reason_for_appearance(organisation: Span, sentence: Sentence) -> str:
     org_end = organisation.end_pos
@@ -60,11 +63,27 @@ def get_reason_for_appearance(organisation: Span, sentence: Sentence) -> str:
 
     first_after_org = frame_tags_after_org[0] if frame_tags_after_org else pos_tags_after_org[0]
     original = sentence.to_original_text()
-    end_of_reason = original.find(',', first_after_org.start_pos)
+    end_of_reason = original.find('.', first_after_org.start_pos)
     if not end_of_reason:
         end_of_reason = original.find('.', first_after_org.start_pos)
     reason = original[first_after_org.start_pos:end_of_reason]
     return reason
+
+
+def clean_organization(full_text: str) -> str:
+    cleaned = full_text.strip().lower().replace("--", "").replace("\"", "") \
+        .replace("'s", "").replace("'", "").replace("(", "").replace(")", "")
+    if "," in cleaned:
+        cleaned = cleaned.split(",")[0]
+    if "." in cleaned:
+        cleaned = cleaned.split(".")[0]
+    cleaned = cleaned.replace(",", "")
+    split = cleaned.split(" ")
+    cleaned = split[0].capitalize()
+    for s in split[1:]:
+        cleaned = cleaned if len(s) < 4 else f"{cleaned} {s.capitalize()}"
+    # print(f"{full_text} : {cleaned}")
+    return cleaned
 
 
 def add_to_organisation(name, reason, counts, reasons):
@@ -79,34 +98,26 @@ def add_to_organisation(name, reason, counts, reasons):
         counts[name] = 1
 
 
-def pretty_print(reasons, counts):
+def pretty_print(*args):
     pp = pprint.PrettyPrinter()
-    pp.pprint(reasons)
-    pp.pprint(counts)
+    for to_print in args:
+        pp.pprint(to_print)
 
 
-def find_organisations(folder: str):
-    ner_tagger, frame_tagger, pos_tagger = get_flair_taggers()
-    org_reasons = {}
-    org_counts = {}
-    for path in glob.glob(f'{folder}/*.txt'):
-        file = open(path, "r")
-        lines = split_single(file.read())
-        for line in lines:
-            sentence = Sentence(line)
-            ner_tagger.predict(sentence)
-            frame_tagger.predict(sentence)
-            pos_tagger.predict(sentence)
-            organisations = get_organisations(sentence)
-            if not organisations:
-                continue
-            for organisation in organisations:
-                name = clean_organization(organisation.text)
-                reason = get_reason_for_appearance(organisation, sentence)
-                add_to_organisation(name, reason, org_counts, org_reasons)
-        print(f"Finished processing {path}")
+def find_top_five(counts, reasons):
+    c_top_five = dict(
+        sorted(counts.items(), key=lambda item: item[1], reverse=True)[:5])
+    r_top_five = dict((item[0], reasons[item[0]])
+                      for item in c_top_five.items())
+    return r_top_five, c_top_five
 
-    return org_reasons, org_counts
 
-reasons, counts = find_organisations("CCAT")
-pretty_print(reasons, counts)
+if len(sys.argv) < 2:
+    print()
+    sys.exit(
+        "Please supply a path for text processing (e.g. 'CCAT') as an argument for this script.")
+
+reasons, counts = find_organisations(sys.argv[1])
+top_five_reasons, top_five_count = find_top_five(counts, reasons)
+# pretty_print(reasons, counts)
+pretty_print(top_five_reasons)
