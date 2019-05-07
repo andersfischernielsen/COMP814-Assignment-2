@@ -10,7 +10,10 @@ def find_organisations(folder: str):
     ner_tagger, frame_tagger, pos_tagger = get_flair_taggers()
     org_reasons = {}
     org_counts = {}
+    files_processed = 1
+    total_files = len(glob.glob(f'{folder}/*.txt'))
     for path in glob.glob(f'{folder}/*.txt'):
+        print(f"[{files_processed}/{total_files}] Processing {path}...")
         file = open(path, "r")
         lines = split_single(file.read())
         for line in lines:
@@ -25,12 +28,14 @@ def find_organisations(folder: str):
                 name = clean_organization(organisation.text)
                 reason = get_reason_for_appearance(organisation, sentence)
                 add_to_organisation(name, reason, org_counts, org_reasons)
-        print(f"Finished processing {path}")
+        print(f"[{files_processed}/{len(total_files)}] Finished processing {path}")
+        files_processed += 1
 
     return org_reasons, org_counts
 
 
 def get_flair_taggers() -> (SequenceTagger, SequenceTagger, SequenceTagger):
+    print("Loading flair models...")
     frame_tagger = SequenceTagger.load('frame-fast')
     ner_tagger = SequenceTagger.load('ner-fast')
     pos_tagger = SequenceTagger.load('pos')
