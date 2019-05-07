@@ -1,5 +1,6 @@
 import glob
 import pprint
+from segtok.segmenter import split_single
 from flair.models import SequenceTagger
 from flair.data import Sentence, Span
 
@@ -62,7 +63,7 @@ def find_organisations(folder: str):
     org_counts = {}
     for path in glob.glob(f'{folder}/*.txt'):
         file = open(path, "r")
-        lines = file.readlines()
+        lines = split_single(file.read())
         for line in lines:
             sentence = Sentence(line)
             ner_tagger.predict(sentence)
