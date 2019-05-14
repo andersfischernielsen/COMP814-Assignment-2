@@ -124,5 +124,4 @@ if len(sys.argv) < 2:
 
 reasons, counts = find_organisations_reasons(sys.argv[1])
 top_five_reasons, top_five_count = find_top_five(counts, reasons)
-# pretty_print(reasons, counts)
 pretty_print(top_five_reasons)
