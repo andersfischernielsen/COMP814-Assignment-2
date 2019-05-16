@@ -4,45 +4,85 @@ import traceback
 import glob
 import pprint
 import sys
+import json
+import os
 from syntok.segmenter import process
 from flair.models import SequenceTagger
 from flair.data import Sentence, Span
 
 
+def check_cache(org_reasons: dict, org_counts: dict):
+    try:
+        processed_files = json.load(open('processed/files.json', 'r'))
+        org_reasons = json.load(
+            open('processed/org_reasons.json', "r"))
+        org_counts = json.load(
+            open('processed/org_counts.json', "r"))
+        return processed_files, org_reasons, org_counts
+    except:
+        return [], org_reasons, org_counts
+
+
+def dump_to_cache(processed_files, org_reasons, org_counts):
+    try:
+        if not os.path.exists('processed'):
+            os.makedirs('processed')
+        json.dump(processed_files, open('processed/files.json', 'w'))
+        json.dump(org_reasons, open('processed/org_reasons.json', 'w'))
+        json.dump(org_counts, open('processed/org_counts.json', 'w'))
+    except FileExistsError:
+        pass
+    except:
+        return
+
+
 def find_organisations_reasons(folder: str, org_reasons: dict, org_counts: dict):
-    ner_tagger, frame_tagger, pos_tagger = get_flair_taggers()
-    files_processed = 1
-    files = glob.glob(f'{folder}/*.txt')
-    print(f"Processing {len(files)} files in '{folder}'.")
-    for path in files:
-        print(f"[{files_processed}/{len(files)}] Processing {path}...")
-        file = open(path, "r")
-        paragraphs = process(file.read())
-        for sentences_tokenized in paragraphs:
-            for tokens in sentences_tokenized:
-                sentence = ""
-                for token in tokens:
-                    sentence += f"{token.spacing}{token.value}"
-                sentence = Sentence(sentence.strip())
-                ner_tagger.predict(sentence)
-                frame_tagger.predict(sentence)
-                pos_tagger.predict(sentence)
-                organisations = get_organisations(sentence)
-                if not organisations:
-                    continue
+    try:
+        ner_tagger, frame_tagger, pos_tagger = get_flair_taggers()
+        files_processed, org_reasons, org_counts = \
+            check_cache(org_reasons, org_counts)
+        file_count = 1 if len(files_processed) == 0 else len(files_processed)
+        files = glob.glob(f'{folder}/*.txt')
+        print(f"Processing {len(files)} files in '{folder}'.")
+        to_process = [f for f in files if f not in files_processed]
+        for path in to_process:
+            print(f"[{file_count}/{len(files)}] Processing {path}...")
+            file = open(path, "r")
+            paragraphs = process(file.read())
+            for sentences_tokenized in paragraphs:
+                for tokens in sentences_tokenized:
+                    sentence = ""
+                    for token in tokens:
+                        sentence += f"{token.spacing}{token.value}"
+                    sentence = Sentence(sentence.strip())
+                    ner_tagger.predict(sentence)
+                    frame_tagger.predict(sentence)
+                    pos_tagger.predict(sentence)
+                    organisations = get_organisations(sentence)
+                    if not organisations:
+                        continue
 
-                for first in organisations[:1]:
-                    name = clean_organization(first.text)
-                    reason = get_reason_for_appearance(first, sentence)
-                    add_to_organisation(name, reason, org_counts, org_reasons)
+                    for first in organisations[:1]:
+                        name = clean_organization(first.text)
+                        reason = get_reason_for_appearance(first, sentence)
+                        add_to_organisation(
+                            name, reason, org_counts, org_reasons)
 
-                for remaining in organisations[1:]:
-                    name = clean_organization(remaining.text)
-                    add_to_organisation(name, None, org_counts, org_reasons)
+                    for remaining in organisations[1:]:
+                        name = clean_organization(remaining.text)
+                        add_to_organisation(
+                            name, None, org_counts, org_reasons)
 
-        files_processed += 1
+            files_processed.append(path)
+            dump_to_cache(files_processed, org_reasons, org_counts)
+            file_count += 1
 
-    print(f"Finished processing {len(files)} files.")
+        print(f"\nFinished processing {file_count} files.")
+        return org_reasons, org_counts
+    except:
+        print("\n\nExiting...")
+        print(f"Finished processing {file_count} files.")
+        return org_reasons, org_counts
 
 
 def get_flair_taggers() -> (SequenceTagger, SequenceTagger, SequenceTagger):
@@ -119,20 +159,14 @@ def find_top_five(counts, reasons):
 
 
 def main():
-    reasons = {}
-    counts = {}
     try:
         if len(sys.argv) < 2:
             print()
             sys.exit(
                 "Please supply a path for text processing (e.g. 'CCAT') as an argument for this script.")
 
-        find_organisations_reasons(sys.argv[1], reasons, counts)
-        top_five_reasons, _ = find_top_five(counts, reasons)
-        pretty_print(top_five_reasons)
-    except KeyboardInterrupt:
-        print("\n\nExiting...")
-        print("Results:")
+        reasons, counts = find_organisations_reasons(
+            sys.argv[1], org_reasons={}, org_counts={})
         top_five_reasons, _ = find_top_five(counts, reasons)
         pretty_print(top_five_reasons)
     except Exception:
