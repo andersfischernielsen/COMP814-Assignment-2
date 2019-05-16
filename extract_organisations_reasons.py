@@ -13,11 +13,11 @@ from flair.data import Sentence, Span
 
 def check_cache(org_reasons: dict, org_counts: dict):
     try:
-        processed_files = json.load(open('processed/files.json', 'r'))
+        processed_files = json.load(open('cache/files.json', 'r'))
         org_reasons = json.load(
-            open('processed/org_reasons.json', "r"))
+            open('cache/org_reasons.json', "r"))
         org_counts = json.load(
-            open('processed/org_counts.json', "r"))
+            open('cache/org_counts.json', "r"))
         return processed_files, org_reasons, org_counts
     except:
         return [], org_reasons, org_counts
@@ -25,13 +25,11 @@ def check_cache(org_reasons: dict, org_counts: dict):
 
 def dump_to_cache(processed_files, org_reasons, org_counts):
     try:
-        if not os.path.exists('processed'):
-            os.makedirs('processed')
-        json.dump(processed_files, open('processed/files.json', 'w'))
-        json.dump(org_reasons, open('processed/org_reasons.json', 'w'))
-        json.dump(org_counts, open('processed/org_counts.json', 'w'))
-    except FileExistsError:
-        pass
+        if not os.path.exists('cache'):
+            os.makedirs('cache')
+        json.dump(processed_files, open('cache/files.json', 'w'))
+        json.dump(org_reasons, open('cache/org_reasons.json', 'w'))
+        json.dump(org_counts, open('cache/org_counts.json', 'w'))
     except:
         return
 
@@ -41,7 +39,8 @@ def find_organisations_reasons(folder: str, org_reasons: dict, org_counts: dict)
         ner_tagger, frame_tagger, pos_tagger = get_flair_taggers()
         files_processed, org_reasons, org_counts = \
             check_cache(org_reasons, org_counts)
-        file_count = 1 if len(files_processed) == 0 else len(files_processed)
+        file_count = 1 if len(files_processed) == 0 else \
+            len(files_processed) + 1
         files = glob.glob(f'{folder}/*.txt')
         print(f"Processing {len(files)} files in '{folder}'.")
         to_process = [f for f in files if f not in files_processed]
