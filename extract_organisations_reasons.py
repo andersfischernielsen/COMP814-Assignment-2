@@ -1,3 +1,4 @@
+import traceback
 import glob
 import pprint
 import sys
@@ -6,9 +7,8 @@ from flair.models import SequenceTagger
 from flair.data import Sentence, Span
 
 
-def find_organisations_reasons(folder: str):
+def find_organisations_reasons(folder: str, org_reasons: dict, org_counts: dict):
     ner_tagger, frame_tagger, pos_tagger = get_flair_taggers()
-    org_reasons, org_counts = {}, {}
     files_processed = 1
     files = glob.glob(f'{folder}/*.txt')
     print(f"Processing {len(files)} files in '{folder}'.")
@@ -41,7 +41,6 @@ def find_organisations_reasons(folder: str):
         files_processed += 1
 
     print(f"Finished processing {len(files)} files.")
-    return org_reasons, org_counts
 
 
 def get_flair_taggers() -> (SequenceTagger, SequenceTagger, SequenceTagger):
@@ -117,11 +116,27 @@ def find_top_five(counts, reasons):
     return r_top_five, c_top_five
 
 
-if len(sys.argv) < 2:
-    print()
-    sys.exit(
-        "Please supply a path for text processing (e.g. 'CCAT') as an argument for this script.")
+def main():
+    reasons = {}
+    counts = {}
+    try:
+        if len(sys.argv) < 2:
+            print()
+            sys.exit(
+                "Please supply a path for text processing (e.g. 'CCAT') as an argument for this script.")
 
-reasons, counts = find_organisations_reasons(sys.argv[1])
-top_five_reasons, top_five_count = find_top_five(counts, reasons)
-pretty_print(top_five_reasons)
+        find_organisations_reasons(sys.argv[1], reasons, counts)
+        top_five_reasons, _ = find_top_five(counts, reasons)
+        pretty_print(top_five_reasons)
+    except KeyboardInterrupt:
+        print("\n\nExiting...")
+        print("Results:")
+        top_five_reasons, _ = find_top_five(counts, reasons)
+        pretty_print(top_five_reasons)
+    except Exception:
+        traceback.print_exc(file=sys.stdout)
+    sys.exit(0)
+
+
+if __name__ == "__main__":
+    main()
