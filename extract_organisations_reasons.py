@@ -11,7 +11,7 @@ from flair.models import SequenceTagger
 from flair.data import Sentence, Span
 
 
-def check_cache(org_reasons: dict, org_counts: dict):
+def check_cache():
     """ Fetch previously processed results, if present. """
     try:
         processed_files = json.load(open('cache/files.json', 'r'))
@@ -45,7 +45,7 @@ def find_organisations_reasons(folder: str):
         ner_tagger, frame_tagger, pos_tagger = get_flair_taggers()
         # Fetch results from cache, if present.
         files_processed, org_reasons, org_counts = \
-            check_cache(org_reasons, org_counts)
+            check_cache()
         file_count = 1 if len(files_processed) == 0 else \
             len(files_processed) + 1
         # Find files to process from path.
@@ -102,7 +102,7 @@ def find_organisations_reasons(folder: str):
         return org_reasons, org_counts
 
 
-def get_flair_taggers() -> (SequenceTagger, SequenceTagger, SequenceTagger):
+def get_flair_taggers():
     """ Get the Flair tagger and load their respective models."""
     print("Loading flair models...")
     frame_tagger = SequenceTagger.load('frame-fast')
@@ -111,14 +111,14 @@ def get_flair_taggers() -> (SequenceTagger, SequenceTagger, SequenceTagger):
     return ner_tagger, frame_tagger, pos_tagger
 
 
-def get_organisations(sentence: Sentence) -> Span:
+def get_organisations(sentence: Sentence):
     """ Extract 'ORG' NER tags in a sentence """
     org_tags = list(filter(lambda span: "ORG" in span.tag,
                            sentence.get_spans('ner')))
     return org_tags
 
 
-def get_reason_for_appearance(organisation: Span, sentence: Sentence) -> str:
+def get_reason_for_appearance(organisation: Span, sentence: Sentence):
     """ Extract the reason for the appearance of an 'ORG' NER tag in a sentence. """
     # FInd ORG placement in sentence.
     org_end = organisation.end_pos
@@ -141,7 +141,7 @@ def get_reason_for_appearance(organisation: Span, sentence: Sentence) -> str:
     return reason
 
 
-def clean_organization(full_text: str) -> str:
+def clean_organization(full_text: str):
     """ Clean an organisation name (e.g. 'Microsoft Inc.' -> 'Microsoft'). """
     cleaned = full_text.strip().lower().replace("--", "").replace("\"", "") \
         .replace("'s", "").replace("'", "").replace("(", "").replace(")", "")
