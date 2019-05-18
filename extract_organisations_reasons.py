@@ -19,12 +19,11 @@ def find_organisations_reasons(folder: str):
         # Get flair models.
         ner_tagger, frame_tagger, pos_tagger = get_flair_taggers()
         # Fetch results from cache, if present.
-        files_processed, org_reasons, org_counts = \
-            check_cache()
-        file_count = 1 if len(files_processed) == 0 else \
-            len(files_processed) + 1
+        files_processed, org_reasons, org_counts = check_cache()
+        file_count = 1 if len(files_processed) == 0 \
+            else len(files_processed) + 1
         # Find files to process from path.
-        files = glob.glob(f'{folder}/*.txt')
+        files = glob.glob(f"{folder}/*.txt")
         print(f"Processing {len(files)} files in '{folder}'.")
         # Remove previously processed file names.
         to_process = [f for f in files if f not in files_processed]
@@ -80,11 +79,9 @@ def find_organisations_reasons(folder: str):
 def check_cache():
     """ Fetch previously processed results, if present. """
     try:
-        processed_files = json.load(open('cache/files.json', 'r'))
-        org_reasons = json.load(
-            open('cache/org_reasons.json', "r"))
-        org_counts = json.load(
-            open('cache/org_counts.json', "r"))
+        processed_files = json.load(open("cache/files.json", "r"))
+        org_reasons = json.load(open("cache/org_reasons.json", "r"))
+        org_counts = json.load(open("cache/org_counts.json", "r"))
         return processed_files, org_reasons, org_counts
     except:
         return [], org_reasons, org_counts
@@ -93,28 +90,28 @@ def check_cache():
 def dump_to_cache(processed_files, org_reasons, org_counts):
     """ Dump processed results to cache. """
     try:
-        if not os.path.exists('cache'):
-            os.makedirs('cache')
-        json.dump(processed_files, open('cache/files.json', 'w'))
-        json.dump(org_reasons, open('cache/org_reasons.json', 'w'))
-        json.dump(org_counts, open('cache/org_counts.json', 'w'))
+        if not os.path.exists("cache"):
+            os.makedirs("cache")
+        json.dump(processed_files, open("cache/files.json", "w"))
+        json.dump(org_reasons, open("cache/org_reasons.json", "w"))
+        json.dump(org_counts, open("cache/org_counts.json", "w"))
     except:
         return
-        
+
 
 def get_flair_taggers():
     """ Get the Flair tagger and load their respective models."""
     print("Loading flair models...")
-    frame_tagger = SequenceTagger.load('frame-fast')
-    ner_tagger = SequenceTagger.load('ner-fast')
-    pos_tagger = SequenceTagger.load('pos')
+    frame_tagger = SequenceTagger.load("frame-fast")
+    ner_tagger = SequenceTagger.load("ner-fast")
+    pos_tagger = SequenceTagger.load("pos")
     return ner_tagger, frame_tagger, pos_tagger
 
 
 def get_organisations(sentence: Sentence):
     """ Extract 'ORG' NER tags in a sentence """
     org_tags = list(filter(lambda span: "ORG" in span.tag,
-                           sentence.get_spans('ner')))
+                           sentence.get_spans("ner")))
     return org_tags
 
 
@@ -122,19 +119,22 @@ def get_reason_for_appearance(organisation: Span, sentence: Sentence):
     """ Extract the reason for the appearance of an 'ORG' NER tag in a sentence. """
     # FInd ORG placement in sentence.
     org_end = organisation.end_pos
-    frame_tags = sentence.get_spans('frame')
+    frame_tags = sentence.get_spans("frame")
     # Extract frame and POS tags after organisation occurence.
     pos_tags = list(filter(lambda span: "VBD" in span.tag,
-                           sentence.get_spans('pos')))
+                           sentence.get_spans("pos")))
     frame_tags_after_org = list(
-        filter(lambda span: span.start_pos > org_end, frame_tags))
+        filter(lambda span: span.start_pos > org_end, frame_tags)
+    )
     pos_tags_after_org = list(
         filter(lambda span: span.start_pos > org_end, pos_tags))
     # If no frame tags are usable, fall back to POS tags.
     if not frame_tags_after_org and not pos_tags_after_org:
         return None
 
-    first_after_org = frame_tags_after_org[0] if frame_tags_after_org else pos_tags_after_org[0]
+    first_after_org = (
+        frame_tags_after_org[0] if frame_tags_after_org else pos_tags_after_org[0]
+    )
     original = sentence.to_original_text()
     # Extract reason following ORG occurence.
     reason = original[first_after_org.start_pos:]
@@ -143,8 +143,9 @@ def get_reason_for_appearance(organisation: Span, sentence: Sentence):
 
 def clean_organization(full_text: str):
     """ Clean an organisation name (e.g. 'Microsoft Inc.' -> 'Microsoft'). """
-    cleaned = full_text.strip().lower().replace("--", "").replace("\"", "") \
-        .replace("'s", "").replace("'", "").replace("(", "").replace(")", "")
+    cleaned = full_text.strip().lower() \
+        .replace("--", "").replace('"', "").replace("'s", "") \
+        .replace("'", "").replace("(", "").replace(")", "")
     if "," in cleaned:
         cleaned = cleaned.split(",")[0]
     if "." in cleaned:
@@ -180,7 +181,8 @@ def pretty_print(*args):
 def find_top_five(counts, reasons):
     """ Find the top occuring organisations and the reason for their appearance(s). """
     c_top_five = dict(
-        sorted(counts.items(), key=lambda item: item[1], reverse=True)[:5])
+        sorted(counts.items(), key=lambda item: item[1], reverse=True)[:5]
+    )
     r_top_five = dict((item[0], reasons[item[0]][::-1])
                       for item in c_top_five.items())
     return r_top_five, c_top_five
@@ -191,7 +193,8 @@ def main():
         if len(sys.argv) < 2:
             print()
             sys.exit(
-                "Please supply a path for text processing (e.g. 'CCAT') as an argument for this script.")
+                "Please supply a path for text processing (e.g. 'CCAT') as an argument for this script."
+            )
 
         reasons, counts = find_organisations_reasons(sys.argv[1])
         top_five_reasons, _ = find_top_five(counts, reasons)
