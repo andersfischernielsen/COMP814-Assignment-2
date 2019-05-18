@@ -11,31 +11,6 @@ from flair.models import SequenceTagger
 from flair.data import Sentence, Span
 
 
-def check_cache():
-    """ Fetch previously processed results, if present. """
-    try:
-        processed_files = json.load(open('cache/files.json', 'r'))
-        org_reasons = json.load(
-            open('cache/org_reasons.json', "r"))
-        org_counts = json.load(
-            open('cache/org_counts.json', "r"))
-        return processed_files, org_reasons, org_counts
-    except:
-        return [], org_reasons, org_counts
-
-
-def dump_to_cache(processed_files, org_reasons, org_counts):
-    """ Dump processed results to cache. """
-    try:
-        if not os.path.exists('cache'):
-            os.makedirs('cache')
-        json.dump(processed_files, open('cache/files.json', 'w'))
-        json.dump(org_reasons, open('cache/org_reasons.json', 'w'))
-        json.dump(org_counts, open('cache/org_counts.json', 'w'))
-    except:
-        return
-
-
 def find_organisations_reasons(folder: str):
     """ Go through files in the given folder, extract organisation names 
         and their reason for appearance in file. """
@@ -101,6 +76,31 @@ def find_organisations_reasons(folder: str):
         print(f"Finished processing {file_count} files.")
         return org_reasons, org_counts
 
+
+def check_cache():
+    """ Fetch previously processed results, if present. """
+    try:
+        processed_files = json.load(open('cache/files.json', 'r'))
+        org_reasons = json.load(
+            open('cache/org_reasons.json', "r"))
+        org_counts = json.load(
+            open('cache/org_counts.json', "r"))
+        return processed_files, org_reasons, org_counts
+    except:
+        return [], org_reasons, org_counts
+
+
+def dump_to_cache(processed_files, org_reasons, org_counts):
+    """ Dump processed results to cache. """
+    try:
+        if not os.path.exists('cache'):
+            os.makedirs('cache')
+        json.dump(processed_files, open('cache/files.json', 'w'))
+        json.dump(org_reasons, open('cache/org_reasons.json', 'w'))
+        json.dump(org_counts, open('cache/org_counts.json', 'w'))
+    except:
+        return
+        
 
 def get_flair_taggers():
     """ Get the Flair tagger and load their respective models."""
