@@ -37,7 +37,8 @@ def dump_to_cache(processed_files, org_reasons, org_counts):
 
 
 def find_organisations_reasons(folder: str):
-    """ Go through files in the given folder, extract organisation names and their reason for appearance in file. """
+    """ Go through files in the given folder, extract organisation names 
+        and their reason for appearance in file. """
     org_reasons, org_counts = {}, {}
     try:
         # Get flair models.
@@ -157,7 +158,8 @@ def clean_organization(full_text: str) -> str:
 
 
 def add_to_organisation(name, reason, counts, reasons):
-    """ Add a possible reason to the organisation dictionary. If no reason is present, count up the organisation appearance count anyways. """
+    """ Add a possible reason to the organisation dictionary. If no reason is present, 
+        count up the organisation appearance count anyways. """
     if name in reasons and reason:
         reasons[name].append(reason)
         counts[name] = counts[name] + 1
