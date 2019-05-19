@@ -183,7 +183,7 @@ def find_top_five(counts, reasons):
     c_top_five = dict(
         sorted(counts.items(), key=lambda item: item[1], reverse=True)[:5]
     )
-    r_top_five = dict((item[0], reasons[item[0]][::-1])
+    r_top_five = dict((item[0], reasons[item[0]])
                       for item in c_top_five.items())
     return r_top_five, c_top_five
 
