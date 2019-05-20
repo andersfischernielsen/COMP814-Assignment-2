@@ -1,0 +1,10 @@
+{
+  "Sartid": 
+    "has raised production to pre-sanctions levels, producing over 200,000 tonnes of iron and steel in July, the Iron and Steel Industry Association said on Tuesday.",
+    "produced 63,000 tonnes of iron, 74,000 tonnes of steel and 80,000 tonnes of finished products.",
+    "fired its furnace in March, and from April to the end of July produced a total of 228,000 tonnes of iron, 222,000 tonnes of steel and 222,000 tonnes of finished products.",
+    "received about $122 million in credits in the past six months to kick-start the plant -- mostly from Swiss banks.", 
+    "said the plant's exports rose to $1 million a day after almost four years of idleness under the international trade embargo.",
+    "raw materials are imported -- crippling the factory during sanctions.",
+    "plans to start its second blast furnace by the end of 1997.",
+}

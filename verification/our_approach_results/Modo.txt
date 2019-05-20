@@ -1,0 +1,15 @@
+{
+  "Modo": [
+    "said on Wednesday its main markets except newsprint had been weak in the first half, but the order intake for pulp, fine paper and paperboard had improved in the second quarter.",
+    "said currency hedging had improved its result by 948 million crowns.",
+    "rose in Stockholm after the news, touching a peak of 188.00 crowns before trading up 4.0 at 185.00 crowns.",
+    "said in the results statement.",
+    "said its total paper, paperboard and pulp deliveries fell 10 percent compared with the 1995 period to 1.3 million tonnes.",
+    "said orderbooks at its fine paper mills were now "back to normal" and second-quarter deliveries rose six percent compared with the first-quarter.",
+    "adding that fine paper prices had stabilised and it had announced price increases of some 10 percent to take effect in September.",
+    "said chemical pulp deliveries fell by five percent in the first half, although the order intake had recovered in recent months.",
+    "coated magazine paper (super-calendered) down by nine percent, and coated magazine paper down by 24 percent.",
+    "adding that its Holmen newsprint subsidiary had introduced some production restrictions to prevent stocks from building up.",
+    "statement made no comment on future prospects, although a news conference was scheduled for 1230 GMT."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "Schult": [
+    "said.",
+    "is the eighth-largest U.S. producer of manufactured homes, or mobile homes made in a factory.",
+    "said.",
+    "were up 1 to 19-3/8 midday Thursday.",
+    "said it reorganized the company into two operating units and reduced selling, general and administrative costs.",
+    "said."
+  ]
+}

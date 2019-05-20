@@ -1,0 +1,10 @@
+{
+  'Holzmann': [
+    "said in a statement.",
+    "told shareholders at the company's annual general meeting that the company would do all it could to report a positive operating result for 1996.",
+    "said.",
+    "said its construction output fell by 4.6 percent to 5.9 billion marks.",
+    "holds stakes.",
+    "remained pessimistic, predicting a further drop in construction volumes in Germany and Europe."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  'Canon': [
+    "told a news conference.",
+    "said.",
+    "sales of steppers -- equipment used for semiconductor production -- grew about 30 percent during the six months, he said.",
+    "expects a slump in the semiconductor industry to slow its earnings growth in the second half of the business year.",
+    "said its forecast for record profits this year was based on higher sales for printers and cameras including a new format compact camera called the advanced photo system (APS)."
+  ]
+}
