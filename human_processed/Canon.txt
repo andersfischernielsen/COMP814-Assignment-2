@@ -1,0 +1,13 @@
+{
+  'Canon': [
+    "said Thursday its profits more than doubled in the first six months of this year, thanks to its thriving computer printer business",
+    "forecast record full-year current profits, for a second consecutive year, despite the impact of a slump in the microchip sector on its second-half results",
+    "said its parent current profit for the January-June period surged to 63.74 billion yen ($590 million), helped by a 32 percent rise in sales of laser-jet and bubble-jet printers",
+    "expects a slump in the semiconductor industry to slow its earnings growth in the second half of the business year.",
+    "said its forecast for record profits this year was based on higher sales for printers and cameras including a new format compact camera called the advanced photo system (APS).",
+    "is a producer of camera units and magnetic heads.",
+	"is a producer of camera units and magnetic heads.",
+	"is the sole distributor of Canon products in Japan.",
+	"is the sole distributor of Canon products in Japan.",
+  ]
+}

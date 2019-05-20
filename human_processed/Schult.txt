@@ -1,0 +1,13 @@
+{
+  'Schult': [
+    "said lumber prices are rising, but the company is optimistic about fiscal 1997 because of strong, favorable demographic trends and cost-saving internal improvements.",
+    "is the eighth-largest U.S. producer of manufactured homes, or mobile homes made in a factory.",
+    "makes modular homes, or homes assembled on a construction site from factory-built components.",
+    "posted net income for the quarter ended June 29 of $2.9 million or $0.77 per share, up from $1.7 million or $0.46 per share in the fourth quarter last year.",
+    "said it reorganized the company into two operating units and reduced selling, general and administrative costs.",
+    "said its product mix remained fairly stable throughout the year.",
+    "said its construction output fell by 4.6 percent to 5.9 billion marks.",
+    "said in May it would make every effort to post a positive reult for 1996.",
+    "said orders in hand rose to 15.6 billion marks at mid-year from 13.5 billion at the end of 1995."
+  ]
+}

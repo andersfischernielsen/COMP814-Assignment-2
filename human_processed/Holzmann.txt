@@ -1,0 +1,19 @@
+{
+  'Holzmann': [
+    "tumbled 3.7 percent on Wednesday, hurt by a disappointing interim report, dealers said",
+    "said it expected an operating loss for 1996 and said its output shrank 11.8 percent to 5.9 billion marks in the first six months.",
+    "said it orders in hand totalled 13.5 billion marks at end-1995.",
+    "presented a gloomy outlook for 1996 after a difficult first half.",
+    "ran into huge financial problems in 1995, posting an unexpected loss of 443 million marks ($297.4 million) which forced it to omit its dividend payout.",
+    "told shareholders at the company's annual general meeting that the company would do all it could to report a positive operating result for 1996.",
+    "said today that general weakness in the construction sector had not helped its position.",
+    "remained pessimistic, predicting a further drop in construction volumes in Germany and Europe.",
+    "said it aimed to beat this by gaining strength in Asia and America.",
+    "said it hoped simply to break even in the full 1996 year, saying that it would have to dissolve some hidden reserves to offset a negative operating result.",
+    "said on Tuesday it aimed to achieve break-even point in 1996, saying that special earnings would offset an expected negative operating result.",
+    "would dissolve some hidden reserves in order to compensate for a negative operating result, possible losses on property sales and write-offs associated with its restructuring of its portfolio.",
+    "said its construction output fell by 4.6 percent in the first six months of 1996 to 5.9 billion marks ($4 billion). ($ = 1.489 German Marks)",
+    "ran into huge financial problems in 1995, posting an unexpected loss of 443 million marks which forced it to omit its dividend payout.",
+    "[shares] fell sharply on that news, hurt additionally by the unexpected resignation of the company's finance director Michael Westphal on old age grounds.",
+  ]
+}
