@@ -1,0 +1,199 @@
+{'Halifax': ['is expected to bring the biggest single boost to share ownership '
+             'in Britain.',
+             'said its financial services arm achieved 23 million stg of '
+             'profits in the first half of the year, compared with seven '
+             'million stg in the six months to January 1996.',
+             'said it had issued 775 million stg of subordinated debt in '
+             'recent months.',
+             'told Reuters in an interview these levels were below its normal '
+             'market share of around 20 percent because it had shied away from '
+             're-mortgaging which accounted for 30 percent of the total '
+             'mortgage market.',
+             'said its 649 million pounds of half year profits represents a '
+             'rise of six percent rise over the six month period to January '
+             '31.',
+             'plans a stock market flotation next year, took a 7.2 percent '
+             'share of net mortgage lending in the first half of the year and '
+             '15.2 percent of gross mortgage lending.',
+             'told Reuters in an interview, because the society has shied away '
+             'from re-mortgaging which accounts for 30 percent of the total '
+             'mortgage market.',
+             'price index for the 12 months to July showed a 5.3 percent rise.',
+             'profits in the first half of the year would have been 64 million '
+             'stg higher if the society had not written off its mortgage '
+             'incentives -- discounted rates and cashbacks -- straight away.',
+             'said it made pre-tax profits of 649 million stg in the six '
+             'months to June 30.',
+             'said it had changed its year end from January 31 to Dcember 31 '
+             'and its results for January 1996 were included in two of the '
+             'reported periods, including a 88.2 million stg charged for '
+             'merger and integration costs.',
+             'expected several hundreds of thousands of shares to change hands '
+             'on the first day of trading in its shares, likely to be in June '
+             '1997.',
+             'are due to vote on the plans for flotation in February 1997.'],
+ 'I': ["expect a full year loss of US$90 million given what we've been told so "
+       'far and I\'ve seen nothing to change that," the Melbourne analyst '
+       'said.',
+       'expect many other houses to revise upwards their estimates for 1997 '
+       'based on this," said Gan.',
+       'resigned from the SONATEL privatisation committee because of a serious '
+       'crisis of conscience over the values of honesty, integrity and the '
+       'principle of transparency in which I believe."',
+       'have the impression that costs are relatively high at CS Holding than '
+       'at the others," he told Reuters.',
+       'go any further without taking it to the MMC," she told Reuters.',
+       'think they demonstrated quite clearly that the progress they are '
+       'making on food is sustainable," said Charles Winston, drinks analyst '
+       'at BZW.',
+       'think there will be a hostile bid.',
+       'think AOL is going to plateau next year," Green said, adding that she '
+       'does not see members reaching 10 million.',
+       'am delighted to report that we are continuing to make further progress '
+       'in the new year, having increased pretax profits by one-third in the '
+       '12 months to last March," chairman Jeff Whalley told shareholders at '
+       'the annual meeting.',
+       'was expecting around 30 or 31 marks, so 33 marks is around what we '
+       'were anticipating," said Cousins.',
+       'expect the strong operating performance will continue and that through '
+       'efficiency improvements we will continue to stimulate use of our '
+       'assets and achieve higher through-puts."',
+       'be surprised to see further consolidation, maybe in southern Germany," '
+       'Peyrer-Heimstaett said.',
+       'find it sad.',
+       'foresee a new high for Aegon shares," said Van Geest, adding this '
+       'would certainly happen if official rates moved down.',
+       'am delighted to announce we have an agreement-in-principle on the most '
+       'significant business issue which arose out of the acquisition of Scott '
+       'Paper Co by Kimberly-Clark Corp in December 1995," Lee Griffith, '
+       'president & chief executive of Scott Paper, said in a statement.',
+       'expect that the combination of increased sales due to growing consumer '
+       'confidence as well as to our ongoing expansion activities, improved '
+       'margins and the benefits arising from the consolidation of functions, '
+       'will lead to improved results in both Zellers and the Bay over the '
+       'balance of the year."',
+       'say that we are talking most about North America at this time, where '
+       'the market is quite active and you have large regional airlines that '
+       'can order a sizeable amount of aircraft in one order," Lord said.',
+       "think direct banking will grow in importance but there's a limit to "
+       'the number of customers who will use it," said Christian Jessen, one '
+       "of three managers at comdirect, Commerzbank's direct banking unit "
+       'formed last year.',
+       'say that we are talking most about North America at this time, where '
+       'the market is quite active and you have large regional airlines that '
+       'can order a sizeable amount of aircraft in one order," Lord said.',
+       'say it is undervalued but it is definitely one of the most potentially '
+       'interesting shares but people have to realise how to trade it again," '
+       'she said.',
+       "think we've hit the bottom."],
+ 'Omv': ['profits of over two billion schillings," said one trader.',
+         'reported a pre-tax profit of 1.56 billion schillings for the first '
+         'half.',
+         'reported steady first half earnings on Tuesday and said weakness in '
+         "two key sectors would not prevent it from matching last year's "
+         'record profit.',
+         'ended 13.9 schillings down at 1,025.',
+         'achieved.',
+         'had reported a refining EBIT of 0.26 billion schillings in the first '
+         'quarter.',
+         'operations also struggled to maintain a profit as polyolefin prices '
+         'hit the skids.',
+         'continue to reduce its cost base over the next few years and aimed '
+         'to cut its workforce by four percent annually.',
+         'employed 8,663 staff on June 30, down from 10,028 at the same time '
+         'last year.',
+         'traced the upswing to higher crude oil prices and restructuring.',
+         'said it planned to reduce the number of gasoline stations it '
+         'operates in Austria over the next three years while expanding its '
+         'network in neighbouring countries.',
+         'said on Tuesday its forecast for flat full-year earnings was based '
+         'on a conservative outlook for polyolefins in the fourth quarter.',
+         'posted a record pre-tax profit of 2.09 billion schillings and '
+         'earnings before interest and tax of 2.19 billion.'],
+ 'Pioneer': ['said the substantial increase in profitability was mainly due to '
+             'asset rationalisation and lower operating costs following the '
+             'merger.',
+             'said it expected petrol refiner margins to remain tight during '
+             '1996/97 due to strong competition from Asian refineries but saw '
+             'margin improvements for jet and diesel fuel.',
+             'earned $2.16 a share.',
+             'said preliminary estimates show its share of the North American '
+             'hybrid seed corn market in 1996 appears to be about 44 percent.',
+             'said it expects to have a "better idea" of hybrid seed corn '
+             'market share next month when more information is available.',
+             'said in May it expected its share of the hybrid seed corn market '
+             'to be stable to slightly lower.',
+             'has said previously it could make an purchase of up to A$1.0 '
+             'billion.',
+             'building materials businesses worldwide had experienced a good '
+             'start to the 1996/97 financial year in contrast to its petroleum '
+             'refining and marketing joint venture, Ampol which was feeling '
+             'the negative effects of low refiner margins for petroleum.',
+             'said it was assessing a wide range of acquisition opportunities, '
+             'including add-on acquisitions, new country entries and larger '
+             'acquisitions.',
+             'was commenting after reporting a nine percent rise in operating '
+             'profit pre-tax of A$332.5 million for the year to June 30.',
+             'said that most of the European economies in which it operated '
+             'were expected to be under pressure and that volumes could fall '
+             'further.',
+             "said it expected the group's U.S. operations to further improve "
+             'their results in 1996/97.',
+             'refining and marketing operations were expected to remain '
+             'competitive during 1996/97, with refining margins forecast to '
+             'remain tight.',
+             'price was down one cent at A$3.72 at 12.30 p.m. (0230 GMT).',
+             'operations in Europe and South America have been particularly '
+             'strong in fiscal 1996, which ends in August.',
+             'said Thursday that preliminary indications are that its North '
+             'American seed corn market share will be about 44 percent, down '
+             'from about 45 percent a year ago.\n'
+             '"We went on record (in January 1996) as saying they would lose '
+             'market share," Dahlman said.',
+             'said its North American seed field yields are expected to meet '
+             'expectations, although crop maturity is running behind normal '
+             'because of cooler than normal weather in the Midwest.'],
+ 'We': ['are upgrading our long term rating from accumulate to buy as we '
+        'believe that the long-term outlook for the stock is positive given '
+        'the expected growth in the automotive sector," it said in a report.',
+        'are not commenting on refinery operations," a BP spokeswoman said.',
+        'go forward with our business plan."',
+        'expect it (Tube Forming) to be immediately accretive to our earnings, '
+        'contributing from $0.22 to $0.25 per share for 1997," John Quarles, '
+        'chairman, president and chief executive officer of Wolverine Tube, '
+        'said in a statement.',
+        'have a stake in the new firm.',
+        'believe short-term appeal of the stock remains limited," the '
+        'brokerage said.',
+        'are revising upward our earnings forecast for Cemig with annual '
+        'compound earnings growth for the next three years at 28 percent, up '
+        'from 10 percent," it said.',
+        'have signed an addendum to our earlier MOU (memorandum of '
+        'understanding) with Total to include development of LNG projects," '
+        'the official said.',
+        'are anticipating a continuation of the positive business development '
+        'in the second half of 1996," Wella said.',
+        'continue to meet our business plan expectations with strong growth '
+        'year on year in Orange subscribers and revenues," said Snook in a '
+        'statement accompanying the results.',
+        'are taking steps to revitalise CompuServe," said Chief Executive Bob '
+        'Massey.',
+        'had sales of $6.6 billion in 1995 and expect to do in excess of $7 '
+        'billion in \'96," the division\'s president, William Harris, told a '
+        'news conference here.',
+        'are assessing a wide range of expansion opportunities, encompassing '
+        'add-on acquisitions, new country entries and larger acquisition '
+        'opportunities," managing director John Schubert said in a statement '
+        "accompanying Pioneer's 1995/96 year results.",
+        'are considering acquiring the chemical assets of Riau Andalan and '
+        'selling the power plants of Indorayon in an effort to increase '
+        'efficiency," corporate secretary P. Daritan told Reuters.',
+        'welcome this opportunity to move shares from short-term financial '
+        'players into the hands of long-term investors," Gross said in a '
+        'statement.',
+        'finalise the memorandum of understanding by the end of the year.',
+        'are in the process of exploring expanded areas of mutual fund '
+        'selection for clients," said a Merrill spokesman.',
+        'are considering acquiring the chemical assets of Riau Andalan and '
+        'selling the power plants of Indorayon in an effort to increase '
+        'efficiency," corporate secretary P. Daritan told Reuters.']}
