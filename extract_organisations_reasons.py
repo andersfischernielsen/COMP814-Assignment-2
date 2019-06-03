@@ -12,7 +12,7 @@ from flair.data import Sentence, Span
 
 
 def find_organisations_reasons(folder: str):
-    """ Go through files in the given folder, extract organisation names 
+    """ Go through files in the given folder, extract organisation names
         and their reason for appearance in file. """
     org_reasons, org_counts = {}, {}
     try:
@@ -84,7 +84,7 @@ def check_cache():
         org_counts = json.load(open("cache/org_counts.json", "r"))
         return processed_files, org_reasons, org_counts
     except:
-        return [], org_reasons, org_counts
+        return [], {}, {}
 
 
 def dump_to_cache(processed_files, org_reasons, org_counts):
@@ -97,6 +97,17 @@ def dump_to_cache(processed_files, org_reasons, org_counts):
         json.dump(org_counts, open("cache/org_counts.json", "w"))
     except:
         return
+
+
+# def create_cache_if_missing(processed_files, org_reasons, org_counts):
+#     if not os.path.exists("cache"):
+#         os.makedirs("cache")
+#     if not os.path.exists("cache/files.json"):
+#         json.dump([], open("cache/files.json", "w"))
+#     if not os.path.exists("cache/org_reasons.json"):
+#         json.dump({}, open("cache/org_reasons.json", "w"))
+#     if not os.path.exists("cache/org_counts.json"):
+#         json.dump({}, open("cache/org_counts.json", "w"))
 
 
 def get_flair_taggers():
@@ -159,7 +170,7 @@ def clean_organization(full_text: str):
 
 
 def add_to_organisation(name, reason, counts, reasons):
-    """ Add a possible reason to the organisation dictionary. If no reason is present, 
+    """ Add a possible reason to the organisation dictionary. If no reason is present,
         count up the organisation appearance count anyways. """
     if name in reasons and reason:
         reasons[name].append(reason)
