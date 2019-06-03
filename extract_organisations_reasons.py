@@ -99,17 +99,6 @@ def dump_to_cache(processed_files, org_reasons, org_counts):
         return
 
 
-# def create_cache_if_missing(processed_files, org_reasons, org_counts):
-#     if not os.path.exists("cache"):
-#         os.makedirs("cache")
-#     if not os.path.exists("cache/files.json"):
-#         json.dump([], open("cache/files.json", "w"))
-#     if not os.path.exists("cache/org_reasons.json"):
-#         json.dump({}, open("cache/org_reasons.json", "w"))
-#     if not os.path.exists("cache/org_counts.json"):
-#         json.dump({}, open("cache/org_counts.json", "w"))
-
-
 def get_flair_taggers():
     """ Get the Flair tagger and load their respective models."""
     print("Loading flair models...")
