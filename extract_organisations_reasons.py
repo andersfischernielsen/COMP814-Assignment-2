@@ -68,7 +68,7 @@ def find_organisations_reasons(folder: str):
             file_count += 1
 
         org_reasons.pop('I', None), org_counts.pop('I', None)
-        org_reasons.pop('We', None), org_counts.pop('I', None)
+        org_reasons.pop('We', None), org_counts.pop('We', None)
         print(f"\nFinished processing {file_count} files.")
         return org_reasons, org_counts
     except:
