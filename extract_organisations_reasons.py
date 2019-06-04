@@ -63,6 +63,8 @@ def find_organisations_reasons(folder: str):
                             name, None, org_counts, org_reasons)
 
             files_processed.append(path)
+            org_reasons.pop('I', None), org_counts.pop('I', None)
+            org_reasons.pop('We', None), org_counts.pop('I', None)
             # Store in cache after processing.
             dump_to_cache(files_processed, org_reasons, org_counts)
             file_count += 1
@@ -117,7 +119,7 @@ def get_organisations(sentence: Sentence):
 
 def get_reason_for_appearance(organisation: Span, sentence: Sentence):
     """ Extract the reason for the appearance of an 'ORG' NER tag in a sentence. """
-    # FInd ORG placement in sentence.
+    # Find ORG placement in sentence.
     org_end = organisation.end_pos
     frame_tags = sentence.get_spans("frame")
     # Extract frame and POS tags after organisation occurence.
