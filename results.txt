@@ -1,4 +1,28 @@
-{'Halifax': ['is expected to bring the biggest single boost to share ownership '
+{'Basf': ['reported a 14.7 percent rise in its first-half profit and '
+          'conservatively predicted a slight increase in full year earnings '
+          'following more orders last month in most businesses.',
+          'told a news conference here.',
+          'profit rose to 2.32 billion marks ($1.55 billion) in the first half '
+          'of 1996 from 2.02 billion, coming in right at the middle of '
+          "analysts' forecasts.",
+          'said.',
+          'said he believed this process had stopped as economies were picking '
+          'up.',
+          'sales rose marginally to 24.3 billion marks from 24.1 billion as '
+          'favourable exchange rates more than offsett an average two percent '
+          'drop in selling prices.',
+          'said it was still keen to make acquistions in the pharmaceutical '
+          'sector, but added it would move cautiously because of the current '
+          'high prices for any takeover prey.',
+          'expects total 1996 capital expenditure in tangible fixed assets to '
+          'be 3.2 billion marks, of which 50 percent will be invested outside '
+          'Germany.',
+          'said it saw no regulatory obstacles that could block its planned '
+          'sale of a 51 percent stake in German potash group Kali und Salz AG '
+          'to a Canadian company.',
+          'said.',
+          'closed 89 pfennigs higher at 43.13 marks.'],
+ 'Halifax': ['is expected to bring the biggest single boost to share ownership '
              'in Britain.',
              'said its financial services arm achieved 23 million stg of '
              'profits in the first half of the year, compared with seven '
@@ -32,60 +56,28 @@
              'on the first day of trading in its shares, likely to be in June '
              '1997.',
              'are due to vote on the plans for flotation in February 1997.'],
- 'I': ["expect a full year loss of US$90 million given what we've been told so "
-       'far and I\'ve seen nothing to change that," the Melbourne analyst '
-       'said.',
-       'expect many other houses to revise upwards their estimates for 1997 '
-       'based on this," said Gan.',
-       'resigned from the SONATEL privatisation committee because of a serious '
-       'crisis of conscience over the values of honesty, integrity and the '
-       'principle of transparency in which I believe."',
-       'have the impression that costs are relatively high at CS Holding than '
-       'at the others," he told Reuters.',
-       'go any further without taking it to the MMC," she told Reuters.',
-       'think they demonstrated quite clearly that the progress they are '
-       'making on food is sustainable," said Charles Winston, drinks analyst '
-       'at BZW.',
-       'think there will be a hostile bid.',
-       'think AOL is going to plateau next year," Green said, adding that she '
-       'does not see members reaching 10 million.',
-       'am delighted to report that we are continuing to make further progress '
-       'in the new year, having increased pretax profits by one-third in the '
-       '12 months to last March," chairman Jeff Whalley told shareholders at '
-       'the annual meeting.',
-       'was expecting around 30 or 31 marks, so 33 marks is around what we '
-       'were anticipating," said Cousins.',
-       'expect the strong operating performance will continue and that through '
-       'efficiency improvements we will continue to stimulate use of our '
-       'assets and achieve higher through-puts."',
-       'be surprised to see further consolidation, maybe in southern Germany," '
-       'Peyrer-Heimstaett said.',
-       'find it sad.',
-       'foresee a new high for Aegon shares," said Van Geest, adding this '
-       'would certainly happen if official rates moved down.',
-       'am delighted to announce we have an agreement-in-principle on the most '
-       'significant business issue which arose out of the acquisition of Scott '
-       'Paper Co by Kimberly-Clark Corp in December 1995," Lee Griffith, '
-       'president & chief executive of Scott Paper, said in a statement.',
-       'expect that the combination of increased sales due to growing consumer '
-       'confidence as well as to our ongoing expansion activities, improved '
-       'margins and the benefits arising from the consolidation of functions, '
-       'will lead to improved results in both Zellers and the Bay over the '
-       'balance of the year."',
-       'say that we are talking most about North America at this time, where '
-       'the market is quite active and you have large regional airlines that '
-       'can order a sizeable amount of aircraft in one order," Lord said.',
-       "think direct banking will grow in importance but there's a limit to "
-       'the number of customers who will use it," said Christian Jessen, one '
-       "of three managers at comdirect, Commerzbank's direct banking unit "
-       'formed last year.',
-       'say that we are talking most about North America at this time, where '
-       'the market is quite active and you have large regional airlines that '
-       'can order a sizeable amount of aircraft in one order," Lord said.',
-       'say it is undervalued but it is definitely one of the most potentially '
-       'interesting shares but people have to realise how to trade it again," '
-       'she said.',
-       "think we've hit the bottom."],
+ 'Maybank': ['was confident Amcol and Perwaja would turn around.',
+             'reported a group net profit for the year ended June 30, 1996 of '
+             '1.07 billion ringgit, against 863.53 million ringgit in the '
+             'previous year.',
+             'reported a net profit of 1.07 billion ringgit against 863.53 '
+             'million ringgit in the prior year.',
+             'dispelled recent concerns about its exposure to loans from '
+             'troubled companies Perwaja Steel and Amcol Holdings Ltd, saying '
+             'the provisions are "insignificant."',
+             'had raised its loan loss provision for both companies had '
+             'prompted recent speculation that its full-year results would '
+             'fall under estimates.',
+             'said on Wednesday, adding that it expects the bank to "easily" '
+             'achieve an average growth rate of 15 percent per annum over the '
+             'next two financial years.',
+             'managing director Amirsham Abdul Aziz said.',
+             'was also expected to continue.',
+             'were suspended on Tuesday and closed at 22.50 ringgit on Monday.',
+             'dispelled recent concerns about its exposure to loans from '
+             'troubled companies Perwaja Steel and Amcol Holdings Ltd, saying '
+             'the provisions are "insignificant."',
+             'said one dealer with a local brokerage firm.'],
  'Omv': ['profits of over two billion schillings," said one trader.',
          'reported a pre-tax profit of 1.56 billion schillings for the first '
          'half.',
@@ -152,48 +144,5 @@
              'market share," Dahlman said.',
              'said its North American seed field yields are expected to meet '
              'expectations, although crop maturity is running behind normal '
-             'because of cooler than normal weather in the Midwest.'],
- 'We': ['are upgrading our long term rating from accumulate to buy as we '
-        'believe that the long-term outlook for the stock is positive given '
-        'the expected growth in the automotive sector," it said in a report.',
-        'are not commenting on refinery operations," a BP spokeswoman said.',
-        'go forward with our business plan."',
-        'expect it (Tube Forming) to be immediately accretive to our earnings, '
-        'contributing from $0.22 to $0.25 per share for 1997," John Quarles, '
-        'chairman, president and chief executive officer of Wolverine Tube, '
-        'said in a statement.',
-        'have a stake in the new firm.',
-        'believe short-term appeal of the stock remains limited," the '
-        'brokerage said.',
-        'are revising upward our earnings forecast for Cemig with annual '
-        'compound earnings growth for the next three years at 28 percent, up '
-        'from 10 percent," it said.',
-        'have signed an addendum to our earlier MOU (memorandum of '
-        'understanding) with Total to include development of LNG projects," '
-        'the official said.',
-        'are anticipating a continuation of the positive business development '
-        'in the second half of 1996," Wella said.',
-        'continue to meet our business plan expectations with strong growth '
-        'year on year in Orange subscribers and revenues," said Snook in a '
-        'statement accompanying the results.',
-        'are taking steps to revitalise CompuServe," said Chief Executive Bob '
-        'Massey.',
-        'had sales of $6.6 billion in 1995 and expect to do in excess of $7 '
-        'billion in \'96," the division\'s president, William Harris, told a '
-        'news conference here.',
-        'are assessing a wide range of expansion opportunities, encompassing '
-        'add-on acquisitions, new country entries and larger acquisition '
-        'opportunities," managing director John Schubert said in a statement '
-        "accompanying Pioneer's 1995/96 year results.",
-        'are considering acquiring the chemical assets of Riau Andalan and '
-        'selling the power plants of Indorayon in an effort to increase '
-        'efficiency," corporate secretary P. Daritan told Reuters.',
-        'welcome this opportunity to move shares from short-term financial '
-        'players into the hands of long-term investors," Gross said in a '
-        'statement.',
-        'finalise the memorandum of understanding by the end of the year.',
-        'are in the process of exploring expanded areas of mutual fund '
-        'selection for clients," said a Merrill spokesman.',
-        'are considering acquiring the chemical assets of Riau Andalan and '
-        'selling the power plants of Indorayon in an effort to increase '
-        'efficiency," corporate secretary P. Daritan told Reuters.']}
+             'because of cooler than normal weather in the Midwest.']}
+[('Pioneer', 18), ('Omv', 14), ('Halifax', 13), ('Basf', 12), ('Maybank', 12)]
