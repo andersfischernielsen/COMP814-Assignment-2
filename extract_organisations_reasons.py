@@ -63,12 +63,12 @@ def find_organisations_reasons(folder: str):
                             name, None, org_counts, org_reasons)
 
             files_processed.append(path)
-            org_reasons.pop('I', None), org_counts.pop('I', None)
-            org_reasons.pop('We', None), org_counts.pop('I', None)
             # Store in cache after processing.
             dump_to_cache(files_processed, org_reasons, org_counts)
             file_count += 1
 
+        org_reasons.pop('I', None), org_counts.pop('I', None)
+        org_reasons.pop('We', None), org_counts.pop('I', None)
         print(f"\nFinished processing {file_count} files.")
         return org_reasons, org_counts
     except:
