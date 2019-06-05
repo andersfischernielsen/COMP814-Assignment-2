@@ -204,13 +204,9 @@ def main():
             )
 
         reasons, counts = find_organisations_reasons(sys.argv[1])
-
-        cnt = 0
-        for k, v in reasons.items():
-            if len(v) == 0:
-                cnt = cnt + 1
-        print(f"Number of found organisations: {len(reasons.items())}")
-        print(f"Number of organisations with no reasons found: {cnt}")
+        no_reason = sum(v for _, v in reasons.items() if len(v) == 0)
+        print(f"Number of found organisations: {len(reasons)}")
+        print(f"Number of organisations with no reasons found: {no_reason}")
 
         top_five_reasons, counts = find_top_five(counts, reasons)
         pretty_print(top_five_reasons, counts)
