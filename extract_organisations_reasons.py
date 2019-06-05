@@ -67,12 +67,16 @@ def find_organisations_reasons(folder: str):
             dump_to_cache(files_processed, org_reasons, org_counts)
             file_count += 1
 
-        org_reasons.pop('I', None), org_counts.pop('I', None)
-        org_reasons.pop('We', None), org_counts.pop('We', None)
+        if (org_reasons['I']):
+            org_reasons.pop('I', None), org_counts.pop('I', None)
+        if (org_reasons['We']):
+            org_reasons.pop('We', None), org_counts.pop('We', None)
+
         print(f"\nFinished processing {file_count} files.")
         return org_reasons, org_counts
-    except:
+    except Exception as e:
         # Handle early exit by user (CTRL+C).
+        print(e)
         print("\n\nExiting...")
         print(f"Finished processing {file_count} files.")
         return org_reasons, org_counts
@@ -182,11 +186,12 @@ def pretty_print(*args):
 
 def find_top_five(counts, reasons):
     """ Find the top occuring organisations and the reason for their appearance(s). """
-    c_top_five = dict(
-        sorted(counts.items(), key=lambda item: item[1], reverse=True)[:5]
+    c_top = list(
+        sorted(counts.items(), key=lambda item: item[1], reverse=True)
     )
+    c_top_five = c_top[:5]
     r_top_five = dict((item[0], reasons[item[0]])
-                      for item in c_top_five.items())
+                      for item in c_top_five)
     return r_top_five, c_top_five
 
 
@@ -199,8 +204,16 @@ def main():
             )
 
         reasons, counts = find_organisations_reasons(sys.argv[1])
-        top_five_reasons, _ = find_top_five(counts, reasons)
-        pretty_print(top_five_reasons)
+
+        cnt = 0
+        for k, v in reasons.items():
+            if len(v) == 0:
+                cnt = cnt + 1
+        print(f"Number of found organisations: {len(reasons.items())}")
+        print(f"Number of organisations with no reasons found: {cnt}")
+
+        top_five_reasons, counts = find_top_five(counts, reasons)
+        pretty_print(top_five_reasons, counts)
     except Exception:
         traceback.print_exc(file=sys.stdout)
     sys.exit(0)
